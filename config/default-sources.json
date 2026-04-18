@@ -1,0 +1,86 @@
+{
+  "podcasts": [
+    {
+      "name": "The Cloudcast",
+      "rssUrl": "https://feeds.buzzsprout.com/2019083.rss",
+      "url": "https://www.youtube.com/@TheCloudcastNET"
+    },
+    {
+      "name": "Screaming in the Cloud",
+      "rssUrl": "https://feeds.transistor.fm/screaming-in-the-cloud",
+      "url": "https://www.youtube.com/@ScreamingCloud"
+    },
+    {
+      "name": "The Cloud Pod",
+      "rssUrl": "https://feeds.buzzsprout.com/1942066.rss",
+      "url": "https://www.youtube.com/@TheCloudPod"
+    },
+    {
+      "name": "Kubernetes Podcast from Google",
+      "rssUrl": "https://kubernetespodcast.com/feeds/audio.xml",
+      "url": "https://www.youtube.com/@KubernetesPodcast"
+    },
+    {
+      "name": "AWS Podcast",
+      "rssUrl": "https://feeds.buzzsprout.com/2049759.rss",
+      "url": "https://www.youtube.com/@awspodcast"
+    },
+    {
+      "name": "On Cloud (Deloitte)",
+      "rssUrl": "https://feeds.simplecast.com/BM_mPF0c",
+      "url": "https://www.youtube.com/@DeloitteUS"
+    }
+  ],
+  "blogs": [
+    {
+      "name": "AWS News Blog",
+      "type": "scrape",
+      "indexUrl": "https://aws.amazon.com/blogs/aws/",
+      "articleBaseUrl": "https://aws.amazon.com/blogs/aws/",
+      "fetchMethod": "http"
+    },
+    {
+      "name": "Azure Blog",
+      "type": "scrape",
+      "indexUrl": "https://azure.microsoft.com/en-us/blog/",
+      "articleBaseUrl": "https://azure.microsoft.com/en-us/blog/",
+      "fetchMethod": "http"
+    },
+    {
+      "name": "Google Cloud Blog",
+      "type": "scrape",
+      "indexUrl": "https://cloud.google.com/blog",
+      "articleBaseUrl": "https://cloud.google.com/blog/",
+      "fetchMethod": "http"
+    },
+    {
+      "name": "CNCF Blog",
+      "type": "scrape",
+      "indexUrl": "https://www.cncf.io/blog/",
+      "articleBaseUrl": "https://www.cncf.io/blog/",
+      "fetchMethod": "http"
+    }
+  ],
+  "x_accounts": [
+    { "name": "Jeff Barr", "handle": "jeffbarr" },
+    { "name": "Corey Quinn", "handle": "QuinnyPig" },
+    { "name": "Kelsey Hightower", "handle": "kelseyhightower" },
+    { "name": "Werner Vogels", "handle": "Werner" },
+    { "name": "Brendan Burns", "handle": "brendandburns" },
+    { "name": "Adrian Cockcroft", "handle": "adrianco" },
+    { "name": "Forrest Brazeal", "handle": "forrestbrazeal" },
+    { "name": "Liz Rice", "handle": "lizrice" },
+    { "name": "Charity Majors", "handle": "maborhop" },
+    { "name": "Simon Wardley", "handle": "swardley" },
+    { "name": "Brian Gracely", "handle": "bgracely" },
+    { "name": "Bilgin Ibryam", "handle": "bibryam" },
+    { "name": "Corey Sanders", "handle": "CoreySandersWA" },
+    { "name": "Massimo Re Ferre", "handle": "intothecloudnet" },
+    { "name": "Eric Hammond", "handle": "esh" },
+    { "name": "AWS", "handle": "awscloud" },
+    { "name": "Google Cloud", "handle": "googlecloud" },
+    { "name": "Microsoft Azure", "handle": "Azure" },
+    { "name": "Kubernetes", "handle": "kubernetesio" },
+    { "name": "CNCF", "handle": "CloudNativeFdn" }
+  ]
+}
