@@ -2,20 +2,17 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1776486918954,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1776486919465,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1776486921038,
-    "https://azure.microsoft.com/en-us/blog/feed": 1776486921592,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1776486922483,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.IvMmoW59NN4.L.X.O/am=AADAAbMAAAE/d=1/ed=1/rs=AHrnUqWMC4ZMp2ooP4eJ1odgdWbUfRCCPA/m=homeview,_b,_tp": 1776486923315,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1776486924055,
-    "https://cloud.google.com/blog/products/api-management": 1776486924675,
-    "https://www.cncf.io/blog/2026/04/17/k3s-on-on-prem-infrastructures-the-gitops-way-writing-a-custom-k0rdent-template-from-scratch": 1776486925483,
-    "https://www.cncf.io/blog/2026/04/16/the-ai-driven-shift-in-vulnerability-discovery-what-maintainers-and-bug-finders-need-to-know": 1776486926043,
-    "https://www.cncf.io/blog/2026/04/15/how-to-measure-the-roi-of-developer-tools": 1776486926597,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.IvMmoW59NN4.L.X.O/am=AADAAbOAAAE/d=1/ed=1/rs=AHrnUqXxCiMrK3fVMhkCmEO7cdRtplvtyA/m=homeview,_b,_tp": 1776756570279,
     "https://www.cncf.io/blog/2026/04/20/from-public-static-void-main-to-golden-kubestronaut-the-art-of-unlearning": 1776756570944,
     "https://www.cncf.io/blog/2026/04/21/auto-diagnosing-kubernetes-alerts-with-holmesgpt-and-cncf-tools": 1776842828359,
-    "https://www.cncf.io/blog/2026/04/23/from-ingress-nginx-to-higress-migrating-60-resources-in-30-minutes-with-ai": 1777017424217
+    "https://www.cncf.io/blog/2026/04/23/from-ingress-nginx-to-higress-migrating-60-resources-in-30-minutes-with-ai": 1777017424217,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1777100955702,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1777100956208,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1777100956888,
+    "https://azure.microsoft.com/en-us/blog/feed": 1777100957438,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1777100958399,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.IvMmoW59NN4.L.X.O/am=AADAAbMAAAE/d=1/ed=1/rs=AHrnUqWMC4ZMp2ooP4eJ1odgdWbUfRCCPA/m=homeview,_b,_tp": 1777100959215,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1777100959831,
+    "https://cloud.google.com/blog/products/api-management": 1777100960455
   }
 }
