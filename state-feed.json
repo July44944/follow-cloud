@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.IvMmoW59NN4.L.X.O/am=AADAAbOAAAE/d=1/ed=1/rs=AHrnUqXxCiMrK3fVMhkCmEO7cdRtplvtyA/m=homeview,_b,_tp": 1776756570279,
-    "https://www.cncf.io/blog/2026/04/20/from-public-static-void-main-to-golden-kubestronaut-the-art-of-unlearning": 1776756570944,
     "https://www.cncf.io/blog/2026/04/21/auto-diagnosing-kubernetes-alerts-with-holmesgpt-and-cncf-tools": 1776842828359,
     "https://www.cncf.io/blog/2026/04/23/from-ingress-nginx-to-higress-migrating-60-resources-in-30-minutes-with-ai": 1777017424217,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1777100955702,
@@ -13,6 +11,8 @@
     "https://azure.microsoft.com/en-us/blog/comments/feed": 1777100958399,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.IvMmoW59NN4.L.X.O/am=AADAAbMAAAE/d=1/ed=1/rs=AHrnUqWMC4ZMp2ooP4eJ1odgdWbUfRCCPA/m=homeview,_b,_tp": 1777100959215,
     "https://cloud.google.com/blog/products/ai-machine-learning": 1777100959831,
-    "https://cloud.google.com/blog/products/api-management": 1777100960455
+    "https://cloud.google.com/blog/products/api-management": 1777100960455,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.l1tk3oOxZnU.L.X.O/am=IIDAAbMAAAI/d=1/ed=1/rs=AHrnUqW-P-e_xeJWbV_bRarnBjwaubn58A/m=homeview,_b,_tp": 1777364398983,
+    "https://www.cncf.io/blog/2026/04/27/kubernetes-for-platform-teams-leveraging-k0s-and-k0rdent": 1777364399719
   }
 }
