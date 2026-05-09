@@ -2,21 +2,21 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.t3VXWYdlM7Q.L.X.O/am=IIDAAbMAAAI/d=1/ed=1/rs=AHrnUqUgJgunx6kaS6u7ede8fd2emtJoww/m=homeview,_b,_tp": 1777622835426,
-    "https://www.cncf.io/blog/2026/04/30/ai-sandboxing-is-having-its-kubernetes-moment": 1777622836213,
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1777706818899,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1777706819411,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1777706820020,
-    "https://azure.microsoft.com/en-us/blog/feed": 1777706820603,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1777706821674,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1777706822562,
-    "https://cloud.google.com/blog/products/api-management": 1777706823173,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi._KlVOSmx9Y8.L.X.O/am=IIDAAbMAAAI/d=1/ed=1/rs=AHrnUqX1XHgJKU36DfmcIr-QoTV5_8Zh2w/m=homeview,_b,_tp": 1777968212337,
     "https://www.cncf.io/blog/2026/05/04/securing-github-actions-ci-dependencies-recipe-card": 1777968213245,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.6Mpxmuwywsk.L.X.O/am=IIDAAWYBAAQ/d=1/ed=1/rs=AHrnUqVe2llHqYMSheyoDGLJ7qIRqVyDaQ/m=homeview,_b,_tp": 1778142506421,
     "https://www.cncf.io/blog/2026/05/07/microcks-becomes-a-cncf-incubating-project": 1778142507110,
     "https://www.cncf.io/blog/2026/05/06/the-tools-are-ready-so-why-are-most-cloud-native-teams-still-running-three-observability-stacks": 1778142507638,
     "https://www.cncf.io/blog/2026/05/05/announcing-kyverno-release-1-18": 1778142508169,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.JUyakJgF-oo.L.X.O/am=IIDAAWYBAAQ/d=1/ed=1/rs=AHrnUqW8PeLgizu0BYUtwE8kRCHK1Nk72A/m=homeview,_b,_tp": 1778225055923
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.JUyakJgF-oo.L.X.O/am=IIDAAWYBAAQ/d=1/ed=1/rs=AHrnUqW8PeLgizu0BYUtwE8kRCHK1Nk72A/m=homeview,_b,_tp": 1778225055923,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1778313079299,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1778313079809,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1778313081684,
+    "https://azure.microsoft.com/en-us/blog/feed": 1778313082742,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1778313084756,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.1blwT7Tpjls.L.X.O/am=IIAAB5gFABA/d=1/ed=1/rs=AHrnUqVfm-ScDPsXiPx5FFU-W-9wFvOwlQ/m=homeview,_b,_tp": 1778313085582,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1778313086254,
+    "https://cloud.google.com/blog/products/api-management": 1778313098864,
+    "https://www.cncf.io/blog/2026/05/08/benchmarking-ai-agent-retrieval-strategies-on-kubernetes-bug-fixes": 1778313099639
   }
 }
