@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi._KlVOSmx9Y8.L.X.O/am=IIDAAbMAAAI/d=1/ed=1/rs=AHrnUqX1XHgJKU36DfmcIr-QoTV5_8Zh2w/m=homeview,_b,_tp": 1777968212337,
-    "https://www.cncf.io/blog/2026/05/04/securing-github-actions-ci-dependencies-recipe-card": 1777968213245,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.6Mpxmuwywsk.L.X.O/am=IIDAAWYBAAQ/d=1/ed=1/rs=AHrnUqVe2llHqYMSheyoDGLJ7qIRqVyDaQ/m=homeview,_b,_tp": 1778142506421,
     "https://www.cncf.io/blog/2026/05/07/microcks-becomes-a-cncf-incubating-project": 1778142507110,
     "https://www.cncf.io/blog/2026/05/06/the-tools-are-ready-so-why-are-most-cloud-native-teams-still-running-three-observability-stacks": 1778142507638,
@@ -17,6 +15,8 @@
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.1blwT7Tpjls.L.X.O/am=IIAAB5gFABA/d=1/ed=1/rs=AHrnUqVfm-ScDPsXiPx5FFU-W-9wFvOwlQ/m=homeview,_b,_tp": 1778313085582,
     "https://cloud.google.com/blog/products/ai-machine-learning": 1778313086254,
     "https://cloud.google.com/blog/products/api-management": 1778313098864,
-    "https://www.cncf.io/blog/2026/05/08/benchmarking-ai-agent-retrieval-strategies-on-kubernetes-bug-fixes": 1778313099639
+    "https://www.cncf.io/blog/2026/05/08/benchmarking-ai-agent-retrieval-strategies-on-kubernetes-bug-fixes": 1778313099639,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.rZjXUDLNRTk.L.X.O/am=QAABDjATAEA/d=1/ed=1/rs=AHrnUqU0g_2i8N6yKv-OLr-F0kmw1wRLXA/m=homeview,_b,_tp": 1778574853147,
+    "https://www.cncf.io/blog/2026/05/11/how-to-get-engineering-time-back-from-kubernetes-upgrades": 1778574853886
   }
 }
