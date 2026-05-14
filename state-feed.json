@@ -2,10 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.6Mpxmuwywsk.L.X.O/am=IIDAAWYBAAQ/d=1/ed=1/rs=AHrnUqVe2llHqYMSheyoDGLJ7qIRqVyDaQ/m=homeview,_b,_tp": 1778142506421,
-    "https://www.cncf.io/blog/2026/05/07/microcks-becomes-a-cncf-incubating-project": 1778142507110,
-    "https://www.cncf.io/blog/2026/05/06/the-tools-are-ready-so-why-are-most-cloud-native-teams-still-running-three-observability-stacks": 1778142507638,
-    "https://www.cncf.io/blog/2026/05/05/announcing-kyverno-release-1-18": 1778142508169,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.JUyakJgF-oo.L.X.O/am=IIDAAWYBAAQ/d=1/ed=1/rs=AHrnUqW8PeLgizu0BYUtwE8kRCHK1Nk72A/m=homeview,_b,_tp": 1778225055923,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1778313079299,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1778313079809,
@@ -18,6 +14,8 @@
     "https://www.cncf.io/blog/2026/05/08/benchmarking-ai-agent-retrieval-strategies-on-kubernetes-bug-fixes": 1778313099639,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.rZjXUDLNRTk.L.X.O/am=QAABDjATAEA/d=1/ed=1/rs=AHrnUqU0g_2i8N6yKv-OLr-F0kmw1wRLXA/m=homeview,_b,_tp": 1778574853147,
     "https://www.cncf.io/blog/2026/05/11/how-to-get-engineering-time-back-from-kubernetes-upgrades": 1778574853886,
-    "https://www.cncf.io/blog/2026/05/12/a-decade-of-governance-cloud-custodian-at-10-and-its-role-in-the-agentic-ai-era": 1778661596909
+    "https://www.cncf.io/blog/2026/05/12/a-decade-of-governance-cloud-custodian-at-10-and-its-role-in-the-agentic-ai-era": 1778661596909,
+    "https://www.cncf.io/blog/2026/05/13/building-a-cloud-native-platform-from-the-ground-up-with-kairos-k0rdent-and-bindy": 1778747575964,
+    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1778747576509
   }
 }
