@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.rZjXUDLNRTk.L.X.O/am=QAABDjATAEA/d=1/ed=1/rs=AHrnUqU0g_2i8N6yKv-OLr-F0kmw1wRLXA/m=homeview,_b,_tp": 1778574853147,
-    "https://www.cncf.io/blog/2026/05/11/how-to-get-engineering-time-back-from-kubernetes-upgrades": 1778574853886,
     "https://www.cncf.io/blog/2026/05/12/a-decade-of-governance-cloud-custodian-at-10-and-its-role-in-the-agentic-ai-era": 1778661596909,
     "https://www.cncf.io/blog/2026/05/13/building-a-cloud-native-platform-from-the-ground-up-with-kairos-k0rdent-and-bindy": 1778747575964,
     "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1778747576509,
@@ -17,6 +15,8 @@
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.H2cbWafLhlQ.L.X.O/am=QAABDjATAEA/d=1/ed=1/rs=AHrnUqXkLFBvmbVQR054lizVV5tzTWtGvA/m=homeview,_b,_tp": 1778918315525,
     "https://cloud.google.com/blog/products/ai-machine-learning": 1778918316166,
     "https://cloud.google.com/blog/products/api-management": 1778918316850,
-    "https://www.cncf.io/blog/2026/05/15/extending-ai-gateways-with-rust-custom-transformations-in-agentgateway-and-kgateway": 1778918317471
+    "https://www.cncf.io/blog/2026/05/15/extending-ai-gateways-with-rust-custom-transformations-in-agentgateway-and-kgateway": 1778918317471,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.Db5_upZEU6U.L.X.O/am=QAABDjATAEA/d=1/ed=1/rs=AHrnUqUlPdvHKRkFrHDDGj3N682jjoI9GA/m=homeview,_b,_tp": 1779183363426,
+    "https://www.cncf.io/blog/2026/05/18/what-kubectl-debug-doesnt-tell-you-the-silent-evidence-gap": 1779183364171
   }
 }
