@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.H2cbWafLhlQ.L.X.O/am=QAABDjATIEA/d=1/ed=1/rs=AHrnUqXnijQHuWrQj0Kip4FXM69WXndjBw/m=homeview,_b,_tp": 1778834683118,
-    "https://www.cncf.io/blog/2026/05/14/when-ai-agents-become-contributors-how-kubestellar-reached-81-pr-acceptance": 1778834683904,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1778918311140,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1778918311645,
     "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1778918312318,
@@ -19,6 +17,8 @@
     "https://www.cncf.io/blog/2026/05/19/automating-confidential-containers-coco-infrastructure-with-kyverno": 1779269043648,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.Vlo10Rdz4tc.L.X.O/am=QgABOMBMAAAB/d=1/ed=1/rs=AHrnUqWgkgUwfoKXUP2UaIrzAggREQ9R2Q/m=homeview,_b,_tp": 1779355969871,
     "https://www.cncf.io/blog/2026/05/20/introducing-prempti-policy-and-visibility-for-ai-coding-agents": 1779355970809,
-    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1779355971496
+    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1779355971496,
+    "https://www.cncf.io/blog/2026/05/21/aamchi-mumbai-a-kubecon-cloudnativecon-field-guide": 1779440246551,
+    "https://www.cncf.io/blog/2026/05/21/how-netease-games-achieved-30-second-llm-cold-starts-on-kubernetes": 1779440247074
   }
 }
