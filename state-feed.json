@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.Db5_upZEU6U.L.X.O/am=QAABDjATAEA/d=1/ed=1/rs=AHrnUqUlPdvHKRkFrHDDGj3N682jjoI9GA/m=homeview,_b,_tp": 1779183363426,
-    "https://www.cncf.io/blog/2026/05/18/what-kubectl-debug-doesnt-tell-you-the-silent-evidence-gap": 1779183364171,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.KVoWXJWb9vE.L.X.O/am=QAABHGAmAIA/d=1/ed=1/rs=AHrnUqXbZDRkipl0uDlMJSfYEWVYewGevg/m=homeview,_b,_tp": 1779269042957,
     "https://www.cncf.io/blog/2026/05/19/automating-confidential-containers-coco-infrastructure-with-kyverno": 1779269043648,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.Vlo10Rdz4tc.L.X.O/am=QgABOMBMAAAB/d=1/ed=1/rs=AHrnUqWgkgUwfoKXUP2UaIrzAggREQ9R2Q/m=homeview,_b,_tp": 1779355969871,
@@ -18,6 +16,9 @@
     "https://azure.microsoft.com/en-us/blog/comments/feed": 1779523955261,
     "https://cloud.google.com/blog/products/ai-machine-learning": 1779523956206,
     "https://cloud.google.com/blog/products/api-management": 1779523956855,
-    "https://www.cncf.io/blog/2026/05/22/designing-end-to-end-ingress-request-tracing-for-multi-tenant-saas-platforms": 1779523957474
+    "https://www.cncf.io/blog/2026/05/22/designing-end-to-end-ingress-request-tracing-for-multi-tenant-saas-platforms": 1779523957474,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.NKsjzDFnL5Y.L.X.O/am=QgABcICZAAAC/d=1/ed=1/rs=AHrnUqU_7Z3ekteiHEMVpH3-vPrqBdcuUQ/m=homeview,_b,_tp": 1779788651082,
+    "https://www.cncf.io/blog/2026/05/25/why-kubernetes-policy-enforcement-happens-too-late-and-what-to-do-about-it": 1779788651725,
+    "https://www.cncf.io/blog/2026/05/25/zero-downtime-migration-from-ingress-nginx-to-envoy-gateway": 1779788652277
   }
 }
