@@ -2,9 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.Vlo10Rdz4tc.L.X.O/am=QgABOMBMAAAB/d=1/ed=1/rs=AHrnUqWgkgUwfoKXUP2UaIrzAggREQ9R2Q/m=homeview,_b,_tp": 1779355969871,
-    "https://www.cncf.io/blog/2026/05/20/introducing-prempti-policy-and-visibility-for-ai-coding-agents": 1779355970809,
-    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1779355971496,
     "https://www.cncf.io/blog/2026/05/21/aamchi-mumbai-a-kubecon-cloudnativecon-field-guide": 1779440246551,
     "https://www.cncf.io/blog/2026/05/21/how-netease-games-achieved-30-second-llm-cold-starts-on-kubernetes": 1779440247074,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1779523952969,
@@ -19,6 +16,7 @@
     "https://www.cncf.io/blog/2026/05/25/why-kubernetes-policy-enforcement-happens-too-late-and-what-to-do-about-it": 1779788651725,
     "https://www.cncf.io/blog/2026/05/25/zero-downtime-migration-from-ingress-nginx-to-envoy-gateway": 1779788652277,
     "https://www.cncf.io/blog/2026/05/26/three-tag-leads-walk-into-the-toc": 1779874692490,
-    "https://www.cncf.io/blog/2026/05/26/how-jaeger-is-evolving-to-trace-ai-agents-with-opentelemetry": 1779874693074
+    "https://www.cncf.io/blog/2026/05/26/how-jaeger-is-evolving-to-trace-ai-agents-with-opentelemetry": 1779874693074,
+    "https://www.cncf.io/blog/2026/05/27/gpu-autoscaling-on-kubernetes-with-keda-building-an-external-scaler": 1779962091716
   }
 }
