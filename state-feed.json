@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/05/21/aamchi-mumbai-a-kubecon-cloudnativecon-field-guide": 1779440246551,
-    "https://www.cncf.io/blog/2026/05/21/how-netease-games-achieved-30-second-llm-cold-starts-on-kubernetes": 1779440247074,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1779523952969,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1779523953474,
     "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1779523954061,
@@ -17,6 +15,7 @@
     "https://www.cncf.io/blog/2026/05/25/zero-downtime-migration-from-ingress-nginx-to-envoy-gateway": 1779788652277,
     "https://www.cncf.io/blog/2026/05/26/three-tag-leads-walk-into-the-toc": 1779874692490,
     "https://www.cncf.io/blog/2026/05/26/how-jaeger-is-evolving-to-trace-ai-agents-with-opentelemetry": 1779874693074,
-    "https://www.cncf.io/blog/2026/05/27/gpu-autoscaling-on-kubernetes-with-keda-building-an-external-scaler": 1779962091716
+    "https://www.cncf.io/blog/2026/05/27/gpu-autoscaling-on-kubernetes-with-keda-building-an-external-scaler": 1779962091716,
+    "https://www.cncf.io/blog/2026/05/28/the-kubernetes-integration-tax-prometheus-cilium-and-production-reality": 1780047941377
   }
 }
