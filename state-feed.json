@@ -2,20 +2,21 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1779523952969,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1779523953474,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1779523954061,
-    "https://azure.microsoft.com/en-us/blog/feed": 1779523954629,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1779523955261,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1779523956206,
-    "https://cloud.google.com/blog/products/api-management": 1779523956855,
-    "https://www.cncf.io/blog/2026/05/22/designing-end-to-end-ingress-request-tracing-for-multi-tenant-saas-platforms": 1779523957474,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.NKsjzDFnL5Y.L.X.O/am=QgABcICZAAAC/d=1/ed=1/rs=AHrnUqU_7Z3ekteiHEMVpH3-vPrqBdcuUQ/m=homeview,_b,_tp": 1779788651082,
     "https://www.cncf.io/blog/2026/05/25/why-kubernetes-policy-enforcement-happens-too-late-and-what-to-do-about-it": 1779788651725,
     "https://www.cncf.io/blog/2026/05/25/zero-downtime-migration-from-ingress-nginx-to-envoy-gateway": 1779788652277,
     "https://www.cncf.io/blog/2026/05/26/three-tag-leads-walk-into-the-toc": 1779874692490,
     "https://www.cncf.io/blog/2026/05/26/how-jaeger-is-evolving-to-trace-ai-agents-with-opentelemetry": 1779874693074,
     "https://www.cncf.io/blog/2026/05/27/gpu-autoscaling-on-kubernetes-with-keda-building-an-external-scaler": 1779962091716,
-    "https://www.cncf.io/blog/2026/05/28/the-kubernetes-integration-tax-prometheus-cilium-and-production-reality": 1780047941377
+    "https://www.cncf.io/blog/2026/05/28/the-kubernetes-integration-tax-prometheus-cilium-and-production-reality": 1780047941377,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1780129413099,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1780129413612,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1780129415389,
+    "https://azure.microsoft.com/en-us/blog/feed": 1780129416033,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1780129417058,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.aBlB28ApAaA.L.X.O/am=QgABcIKZAAAC/d=1/ed=1/rs=AHrnUqWtSEh1sj_jebHz6L4hqSpcBSE7Zg/m=homeview,_b,_tp": 1780129418395,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1780129421550,
+    "https://cloud.google.com/blog/products/api-management": 1780129422225,
+    "https://www.cncf.io/blog/2026/05/29/building-a-cloud-native-internal-developer-platform-with-kubernetes-gitops-and-supply-chain-security": 1780129422948
   }
 }
