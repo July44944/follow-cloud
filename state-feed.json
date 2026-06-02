@@ -2,9 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.NKsjzDFnL5Y.L.X.O/am=QgABcICZAAAC/d=1/ed=1/rs=AHrnUqU_7Z3ekteiHEMVpH3-vPrqBdcuUQ/m=homeview,_b,_tp": 1779788651082,
-    "https://www.cncf.io/blog/2026/05/25/why-kubernetes-policy-enforcement-happens-too-late-and-what-to-do-about-it": 1779788651725,
-    "https://www.cncf.io/blog/2026/05/25/zero-downtime-migration-from-ingress-nginx-to-envoy-gateway": 1779788652277,
     "https://www.cncf.io/blog/2026/05/26/three-tag-leads-walk-into-the-toc": 1779874692490,
     "https://www.cncf.io/blog/2026/05/26/how-jaeger-is-evolving-to-trace-ai-agents-with-opentelemetry": 1779874693074,
     "https://www.cncf.io/blog/2026/05/27/gpu-autoscaling-on-kubernetes-with-keda-building-an-external-scaler": 1779962091716,
