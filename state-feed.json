@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/05/26/three-tag-leads-walk-into-the-toc": 1779874692490,
-    "https://www.cncf.io/blog/2026/05/26/how-jaeger-is-evolving-to-trace-ai-agents-with-opentelemetry": 1779874693074,
     "https://www.cncf.io/blog/2026/05/27/gpu-autoscaling-on-kubernetes-with-keda-building-an-external-scaler": 1779962091716,
     "https://www.cncf.io/blog/2026/05/28/the-kubernetes-integration-tax-prometheus-cilium-and-production-reality": 1780047941377,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1780129413099,
@@ -15,6 +13,9 @@
     "https://cloud.google.com/blog/products/ai-machine-learning": 1780129421550,
     "https://cloud.google.com/blog/products/api-management": 1780129422225,
     "https://www.cncf.io/blog/2026/05/29/building-a-cloud-native-internal-developer-platform-with-kubernetes-gitops-and-supply-chain-security": 1780129422948,
-    "https://www.cncf.io/blog/2026/06/01/dynamic-configuration-for-cloud-native-swift-services": 1780313070826
+    "https://www.cncf.io/blog/2026/06/01/dynamic-configuration-for-cloud-native-swift-services": 1780313070826,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi._VVRgsH4mgE.L.X.O/am=QgABnGAmAIA/d=1/ed=1/rs=AHrnUqWzkNjK0fXfb26LaT-U87DJBzM6DQ/m=homeview,_b,_tp": 1780483865359,
+    "https://www.cncf.io/blog/2026/06/02/cloud-native-is-now-ai-native-engineering-production-ready-ai": 1780483865987,
+    "https://www.cncf.io/blog/2026/06/02/mumbai-maha-mahotsav-kubecon-cloudnativecon-india-edition": 1780483866656
   }
 }
