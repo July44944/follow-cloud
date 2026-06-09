@@ -2,7 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/06/01/dynamic-configuration-for-cloud-native-swift-services": 1780313070826,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi._VVRgsH4mgE.L.X.O/am=QgABnGAmAIA/d=1/ed=1/rs=AHrnUqWzkNjK0fXfb26LaT-U87DJBzM6DQ/m=homeview,_b,_tp": 1780483865359,
     "https://www.cncf.io/blog/2026/06/02/cloud-native-is-now-ai-native-engineering-production-ready-ai": 1780483865987,
     "https://www.cncf.io/blog/2026/06/02/mumbai-maha-mahotsav-kubecon-cloudnativecon-india-edition": 1780483866656,
@@ -16,6 +15,8 @@
     "https://azure.microsoft.com/en-us/blog/feed": 1780734544081,
     "https://azure.microsoft.com/en-us/blog/comments/feed": 1780734545603,
     "https://cloud.google.com/blog/products/ai-machine-learning": 1780734546491,
-    "https://cloud.google.com/blog/products/api-management": 1780734547107
+    "https://cloud.google.com/blog/products/api-management": 1780734547107,
+    "https://www.cncf.io/blog/2026/06/08/benchmarking-kubevirt-performance-with-virtbench": 1780997671254,
+    "https://www.cncf.io/blog/2026/06/08/breaking-free-of-a-single-datacenter-practical-geo-distributed-ai-operations-with-the-k0smos-platforms": 1780997671919
   }
 }
