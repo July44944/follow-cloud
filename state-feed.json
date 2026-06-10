@@ -17,6 +17,7 @@
     "https://cloud.google.com/blog/products/ai-machine-learning": 1780734546491,
     "https://cloud.google.com/blog/products/api-management": 1780734547107,
     "https://www.cncf.io/blog/2026/06/08/benchmarking-kubevirt-performance-with-virtbench": 1780997671254,
-    "https://www.cncf.io/blog/2026/06/08/breaking-free-of-a-single-datacenter-practical-geo-distributed-ai-operations-with-the-k0smos-platforms": 1780997671919
+    "https://www.cncf.io/blog/2026/06/08/breaking-free-of-a-single-datacenter-practical-geo-distributed-ai-operations-with-the-k0smos-platforms": 1780997671919,
+    "https://www.cncf.io/blog/2026/06/09/solving-secret-sprawl-in-multi-account-kubernetes-with-external-secrets-operator": 1781085070291
   }
 }
