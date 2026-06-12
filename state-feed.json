@@ -2,9 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.FdIEA3UDs_w.L.X.O/am=QgABNMFMAAAB/d=1/ed=1/rs=AHrnUqVbbI87Bm42Z9yC08YGtLrLrs2pSg/m=homeview,_b,_tp": 1780652331200,
-    "https://www.cncf.io/blog/2026/06/04/identity-and-access-management-whitepaper": 1780652331962,
-    "https://www.cncf.io/blog/2026/06/04/securing-ci-cd-for-an-open-source-project-controlling-who-runs-what": 1780652332505,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1780734542232,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1780734542741,
     "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1780734543492,
@@ -14,6 +11,8 @@
     "https://cloud.google.com/blog/products/api-management": 1780734547107,
     "https://www.cncf.io/blog/2026/06/08/benchmarking-kubevirt-performance-with-virtbench": 1780997671254,
     "https://www.cncf.io/blog/2026/06/08/breaking-free-of-a-single-datacenter-practical-geo-distributed-ai-operations-with-the-k0smos-platforms": 1780997671919,
-    "https://www.cncf.io/blog/2026/06/09/solving-secret-sprawl-in-multi-account-kubernetes-with-external-secrets-operator": 1781085070291
+    "https://www.cncf.io/blog/2026/06/09/solving-secret-sprawl-in-multi-account-kubernetes-with-external-secrets-operator": 1781085070291,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.FdIEA3UDs_w.L.X.O/am=QgABNMBMAAAB/d=1/ed=1/rs=AHrnUqW0VGkkJ091LCvgAl_FTwfuwoGljg/m=homeview,_b,_tp": 1781258660346,
+    "https://www.cncf.io/blog/2026/06/11/introducing-verifiable-execution-in-dapr-1-18": 1781258661032
   }
 }
