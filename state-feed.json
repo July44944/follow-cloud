@@ -2,17 +2,19 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1780734542232,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1780734542741,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1780734543492,
-    "https://azure.microsoft.com/en-us/blog/feed": 1780734544081,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1780734545603,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1780734546491,
-    "https://cloud.google.com/blog/products/api-management": 1780734547107,
     "https://www.cncf.io/blog/2026/06/08/benchmarking-kubevirt-performance-with-virtbench": 1780997671254,
     "https://www.cncf.io/blog/2026/06/08/breaking-free-of-a-single-datacenter-practical-geo-distributed-ai-operations-with-the-k0smos-platforms": 1780997671919,
     "https://www.cncf.io/blog/2026/06/09/solving-secret-sprawl-in-multi-account-kubernetes-with-external-secrets-operator": 1781085070291,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.FdIEA3UDs_w.L.X.O/am=QgABNMBMAAAB/d=1/ed=1/rs=AHrnUqW0VGkkJ091LCvgAl_FTwfuwoGljg/m=homeview,_b,_tp": 1781258660346,
-    "https://www.cncf.io/blog/2026/06/11/introducing-verifiable-execution-in-dapr-1-18": 1781258661032
+    "https://www.cncf.io/blog/2026/06/11/introducing-verifiable-execution-in-dapr-1-18": 1781258661032,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1781340747690,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1781340748194,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1781340748842,
+    "https://azure.microsoft.com/en-us/blog/feed": 1781340749426,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1781340750481,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.WoL_NxPUauM.L.X.O/am=QgABaICZAAAC/d=1/ed=1/rs=AHrnUqUaZgOn_ZS3JETDlk6cNqUzZV7g8A/m=homeview,_b,_tp": 1781340751329,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1781340751912,
+    "https://cloud.google.com/blog/products/api-management": 1781340752493,
+    "https://www.cncf.io/blog/2026/06/12/securing-ci-cd-for-an-open-source-project-locking-down-dependencies": 1781340753108
   }
 }
