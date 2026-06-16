@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/06/08/benchmarking-kubevirt-performance-with-virtbench": 1780997671254,
-    "https://www.cncf.io/blog/2026/06/08/breaking-free-of-a-single-datacenter-practical-geo-distributed-ai-operations-with-the-k0smos-platforms": 1780997671919,
     "https://www.cncf.io/blog/2026/06/09/solving-secret-sprawl-in-multi-account-kubernetes-with-external-secrets-operator": 1781085070291,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.FdIEA3UDs_w.L.X.O/am=QgABNMBMAAAB/d=1/ed=1/rs=AHrnUqW0VGkkJ091LCvgAl_FTwfuwoGljg/m=homeview,_b,_tp": 1781258660346,
     "https://www.cncf.io/blog/2026/06/11/introducing-verifiable-execution-in-dapr-1-18": 1781258661032,
@@ -16,6 +14,8 @@
     "https://cloud.google.com/blog/products/ai-machine-learning": 1781340751912,
     "https://cloud.google.com/blog/products/api-management": 1781340752493,
     "https://www.cncf.io/blog/2026/06/12/securing-ci-cd-for-an-open-source-project-locking-down-dependencies": 1781340753108,
-    "https://www.cncf.io/blog/2026/06/15/improving-arm64-support-in-cncf-projects-with-oci-credits": 1781524541579
+    "https://www.cncf.io/blog/2026/06/15/improving-arm64-support-in-cncf-projects-with-oci-credits": 1781524541579,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.tVIBFEyCVpU.L.X.O/am=hAAC0AAzAQAE/d=1/ed=1/rs=AHrnUqXhkFV_H_xawxMckH7MLlxBkzufiA/m=homeview,_b,_tp": 1781607822584,
+    "https://www.cncf.io/blog/2026/06/16/from-data-residency-to-digital-sovereignty-architectural-patterns-for-cloud-native-platforms": 1781607823562
   }
 }
