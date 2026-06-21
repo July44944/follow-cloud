@@ -2,15 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1781340747690,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1781340748194,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1781340748842,
-    "https://azure.microsoft.com/en-us/blog/feed": 1781340749426,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1781340750481,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.WoL_NxPUauM.L.X.O/am=QgABaICZAAAC/d=1/ed=1/rs=AHrnUqUaZgOn_ZS3JETDlk6cNqUzZV7g8A/m=homeview,_b,_tp": 1781340751329,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1781340751912,
-    "https://cloud.google.com/blog/products/api-management": 1781340752493,
-    "https://www.cncf.io/blog/2026/06/12/securing-ci-cd-for-an-open-source-project-locking-down-dependencies": 1781340753108,
     "https://www.cncf.io/blog/2026/06/15/improving-arm64-support-in-cncf-projects-with-oci-credits": 1781524541579,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.tVIBFEyCVpU.L.X.O/am=hAAC0AAzAQAE/d=1/ed=1/rs=AHrnUqXhkFV_H_xawxMckH7MLlxBkzufiA/m=homeview,_b,_tp": 1781607822584,
     "https://www.cncf.io/blog/2026/06/16/from-data-residency-to-digital-sovereignty-architectural-patterns-for-cloud-native-platforms": 1781607823562,
@@ -18,6 +9,13 @@
     "https://www.cncf.io/blog/2026/06/17/expanding-care-passing-cks-can-now-extend-your-cka-certification": 1781777668252,
     "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1781777668947,
     "https://www.cncf.io/blog/2026/06/17/why-cloud-native-belongs-at-the-heart-of-agentic-ai-lessons-from-building-a-multi-agent-security-platform-on-kubernetes": 1781777669640,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.bEEdeR8BPiU.L.X.O/am=hAAEoAFmAgAI/d=1/ed=1/rs=AHrnUqValIFjpoPXk0kjutYjWGLmn52yfw/m=homeview,_b,_tp": 1781864388432
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.bEEdeR8BPiU.L.X.O/am=hAAEoAFmAgAI/d=1/ed=1/rs=AHrnUqValIFjpoPXk0kjutYjWGLmn52yfw/m=homeview,_b,_tp": 1781864388432,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1782034988842,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1782034989357,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1782034990169,
+    "https://azure.microsoft.com/en-us/blog/feed": 1782034990943,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1782034992680,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1782035005908,
+    "https://cloud.google.com/blog/products/api-management": 1782035006627
   }
 }
