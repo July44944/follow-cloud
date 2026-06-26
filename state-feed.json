@@ -2,9 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/06/17/expanding-care-passing-cks-can-now-extend-your-cka-certification": 1781777668252,
-    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1781777668947,
-    "https://www.cncf.io/blog/2026/06/17/why-cloud-native-belongs-at-the-heart-of-agentic-ai-lessons-from-building-a-multi-agent-security-platform-on-kubernetes": 1781777669640,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.bEEdeR8BPiU.L.X.O/am=hAAEoAFmAgAI/d=1/ed=1/rs=AHrnUqValIFjpoPXk0kjutYjWGLmn52yfw/m=homeview,_b,_tp": 1781864388432,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1782034988842,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1782034989357,
@@ -18,6 +15,8 @@
     "https://www.cncf.io/blog/2026/06/23/agent-auth-a-lawyers-day-in-court": 1782292867682,
     "https://www.cncf.io/blog/2026/06/23/building-jaegers-clickhouse-backend-8-6x-compression-on-10-million-spans": 1782292868206,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.myJgkHVX4wg.L.X.O/am=hQAEoAFmAgAI/d=1/ed=1/rs=AHrnUqXhImnLgletFG8YjzIVstaDHaleNQ/m=homeview,_b,_tp": 1782377671386,
-    "https://www.cncf.io/blog/2026/06/24/from-awareness-to-engineered-accessibility-in-open-source": 1782377672347
+    "https://www.cncf.io/blog/2026/06/24/from-awareness-to-engineered-accessibility-in-open-source": 1782377672347,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.Dyp5FHIiIls.L.X.O/am=hQAEOGAmAIA/d=1/ed=1/rs=AHrnUqWAdaeDCmB0529w3YGlfvTZLqPDzA/m=homeview,_b,_tp": 1782464223689,
+    "https://www.cncf.io/blog/2026/06/25/building-a-cluster-aware-ai-agent-with-kubernetes-argo-cd-and-gitops": 1782464224514
   }
 }
