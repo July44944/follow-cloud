@@ -2,13 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1782034988842,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1782034989357,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1782034990169,
-    "https://azure.microsoft.com/en-us/blog/feed": 1782034990943,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1782034992680,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1782035005908,
-    "https://cloud.google.com/blog/products/api-management": 1782035006627,
     "https://www.cncf.io/blog/2026/06/22/telemetry-that-matters-designing-sustainable-high-impact-observability-pipelines": 1782128718122,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.myJgkHVX4wg.L.X.O/am=hAAEoAFmAgAI/d=1/ed=1/rs=AHrnUqW3WnjiBjOttgqbnY3xzoaO4ljH3w/m=homeview,_b,_tp": 1782292866855,
     "https://www.cncf.io/blog/2026/06/23/agent-auth-a-lawyers-day-in-court": 1782292867682,
@@ -19,6 +12,14 @@
     "https://www.cncf.io/blog/2026/06/25/building-a-cluster-aware-ai-agent-with-kubernetes-argo-cd-and-gitops": 1782464224514,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.EaZ1o6MalQo.L.X.O/am=hQAEOGAmAIA/d=1/ed=1/rs=AHrnUqUEwT9Mrh6H_h-QZQ_V1GdRDXiM9A/m=homeview,_b,_tp": 1782549052383,
     "https://www.cncf.io/blog/2026/06/26/security-profiles-operator-v1-stable-apis-security-hardened-and-shaping-upstream-kubernetes": 1782549053407,
-    "https://www.cncf.io/blog/2026/06/26/securing-ci-cd-for-an-open-source-project-part-3-credentials-verification-and-whats-next": 1782549053982
+    "https://www.cncf.io/blog/2026/06/26/securing-ci-cd-for-an-open-source-project-part-3-credentials-verification-and-whats-next": 1782549053982,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1782730117798,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1782730118311,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1782730120309,
+    "https://azure.microsoft.com/en-us/blog/feed": 1782730120919,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1782730121570,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1782730122727,
+    "https://cloud.google.com/blog/products/api-management": 1782730123570,
+    "https://www.cncf.io/blog/2026/06/29/etcd-operator-joins-cozystack-with-a-new-v1alpha2-api": 1782730124588
   }
 }
