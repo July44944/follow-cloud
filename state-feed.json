@@ -2,7 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/06/22/telemetry-that-matters-designing-sustainable-high-impact-observability-pipelines": 1782128718122,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.myJgkHVX4wg.L.X.O/am=hAAEoAFmAgAI/d=1/ed=1/rs=AHrnUqW3WnjiBjOttgqbnY3xzoaO4ljH3w/m=homeview,_b,_tp": 1782292866855,
     "https://www.cncf.io/blog/2026/06/23/agent-auth-a-lawyers-day-in-court": 1782292867682,
     "https://www.cncf.io/blog/2026/06/23/building-jaegers-clickhouse-backend-8-6x-compression-on-10-million-spans": 1782292868206,
@@ -20,6 +19,8 @@
     "https://azure.microsoft.com/en-us/blog/comments/feed": 1782730121570,
     "https://cloud.google.com/blog/products/ai-machine-learning": 1782730122727,
     "https://cloud.google.com/blog/products/api-management": 1782730123570,
-    "https://www.cncf.io/blog/2026/06/29/etcd-operator-joins-cozystack-with-a-new-v1alpha2-api": 1782730124588
+    "https://www.cncf.io/blog/2026/06/29/etcd-operator-joins-cozystack-with-a-new-v1alpha2-api": 1782730124588,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.iNebtUbKk_Y.L.X.O/am=QgACHDATAEA/d=1/ed=1/rs=AHrnUqURlIn4_vis8BnElIOD5wzA9Z8tyw/m=homeview,_b,_tp": 1782811586762,
+    "https://www.cncf.io/blog/2026/06/29/otel-and-mesh-derived-metrics-a-2026-reference": 1782811587515
   }
 }
