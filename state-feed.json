@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.myJgkHVX4wg.L.X.O/am=hQAEoAFmAgAI/d=1/ed=1/rs=AHrnUqXhImnLgletFG8YjzIVstaDHaleNQ/m=homeview,_b,_tp": 1782377671386,
-    "https://www.cncf.io/blog/2026/06/24/from-awareness-to-engineered-accessibility-in-open-source": 1782377672347,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.Dyp5FHIiIls.L.X.O/am=hQAEOGAmAIA/d=1/ed=1/rs=AHrnUqWAdaeDCmB0529w3YGlfvTZLqPDzA/m=homeview,_b,_tp": 1782464223689,
     "https://www.cncf.io/blog/2026/06/25/building-a-cluster-aware-ai-agent-with-kubernetes-argo-cd-and-gitops": 1782464224514,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.EaZ1o6MalQo.L.X.O/am=hQAEOGAmAIA/d=1/ed=1/rs=AHrnUqUEwT9Mrh6H_h-QZQ_V1GdRDXiM9A/m=homeview,_b,_tp": 1782549052383,
@@ -22,6 +20,7 @@
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.e6uwUgGiFOY.L.X.O/am=QgACHDATAEA/d=1/ed=1/rs=AHrnUqWpFvVs9qgZeLk8dyvb24VUk0eVxA/m=homeview,_b,_tp": 1782898699695,
     "https://www.cncf.io/blog/2026/06/30/kepler-re-architected-improved-power-accuracy-and-a-community-call-to-action": 1782898700370,
     "https://www.cncf.io/blog/2026/06/30/dragonfly-v2-5-0-is-released": 1782898700913,
-    "https://www.cncf.io/blog/2026/07/01/understanding-dynamic-resource-allocation-in-kubernetes": 1782982205139
+    "https://www.cncf.io/blog/2026/07/01/understanding-dynamic-resource-allocation-in-kubernetes": 1782982205139,
+    "https://www.cncf.io/blog/2026/07/02/reintroducing-kpt-your-toolchain-for-infrastructure-automation": 1783068961774
   }
 }
