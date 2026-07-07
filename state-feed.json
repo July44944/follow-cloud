@@ -2,22 +2,21 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1782730117798,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1782730118311,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1782730120309,
-    "https://azure.microsoft.com/en-us/blog/feed": 1782730120919,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1782730121570,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1782730122727,
-    "https://cloud.google.com/blog/products/api-management": 1782730123570,
-    "https://www.cncf.io/blog/2026/06/29/etcd-operator-joins-cozystack-with-a-new-v1alpha2-api": 1782730124588,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.iNebtUbKk_Y.L.X.O/am=QgACHDATAEA/d=1/ed=1/rs=AHrnUqURlIn4_vis8BnElIOD5wzA9Z8tyw/m=homeview,_b,_tp": 1782811586762,
-    "https://www.cncf.io/blog/2026/06/29/otel-and-mesh-derived-metrics-a-2026-reference": 1782811587515,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.e6uwUgGiFOY.L.X.O/am=QgACHDATAEA/d=1/ed=1/rs=AHrnUqWpFvVs9qgZeLk8dyvb24VUk0eVxA/m=homeview,_b,_tp": 1782898699695,
     "https://www.cncf.io/blog/2026/06/30/kepler-re-architected-improved-power-accuracy-and-a-community-call-to-action": 1782898700370,
     "https://www.cncf.io/blog/2026/06/30/dragonfly-v2-5-0-is-released": 1782898700913,
     "https://www.cncf.io/blog/2026/07/01/understanding-dynamic-resource-allocation-in-kubernetes": 1782982205139,
     "https://www.cncf.io/blog/2026/07/02/reintroducing-kpt-your-toolchain-for-infrastructure-automation": 1783068961774,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.zh36D5QF8-w.L.X.O/am=QggEOGAmAIA/d=1/ed=1/rs=AHrnUqWYb9nUmaFfEwfu8qzTaeL35kBJYA/m=homeview,_b,_tp": 1783153845201,
-    "https://www.cncf.io/blog/2026/07/03/how-data-sovereignty-is-changing-cloud-native-infrastructure-design": 1783153845896
+    "https://www.cncf.io/blog/2026/07/03/how-data-sovereignty-is-changing-cloud-native-infrastructure-design": 1783153845896,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1783416816788,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1783416817294,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1783416819248,
+    "https://azure.microsoft.com/en-us/blog/feed": 1783416819826,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1783416820443,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1783416823770,
+    "https://cloud.google.com/blog/products/api-management": 1783416824382,
+    "https://www.cncf.io/blog/2026/07/06/the-4-body-problem-of-sre-why-autonomous-operations-depend-on-context": 1783416825350,
+    "https://www.cncf.io/blog/2026/07/06/evolving-platform-engineering-for-ai-native-workloads": 1783416826089
   }
 }
