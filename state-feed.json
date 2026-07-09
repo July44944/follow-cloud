@@ -2,10 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.e6uwUgGiFOY.L.X.O/am=QgACHDATAEA/d=1/ed=1/rs=AHrnUqWpFvVs9qgZeLk8dyvb24VUk0eVxA/m=homeview,_b,_tp": 1782898699695,
-    "https://www.cncf.io/blog/2026/06/30/kepler-re-architected-improved-power-accuracy-and-a-community-call-to-action": 1782898700370,
-    "https://www.cncf.io/blog/2026/06/30/dragonfly-v2-5-0-is-released": 1782898700913,
-    "https://www.cncf.io/blog/2026/07/01/understanding-dynamic-resource-allocation-in-kubernetes": 1782982205139,
     "https://www.cncf.io/blog/2026/07/02/reintroducing-kpt-your-toolchain-for-infrastructure-automation": 1783068961774,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.zh36D5QF8-w.L.X.O/am=QggEOGAmAIA/d=1/ed=1/rs=AHrnUqWYb9nUmaFfEwfu8qzTaeL35kBJYA/m=homeview,_b,_tp": 1783153845201,
     "https://www.cncf.io/blog/2026/07/03/how-data-sovereignty-is-changing-cloud-native-infrastructure-design": 1783153845896,
@@ -20,6 +16,9 @@
     "https://www.cncf.io/blog/2026/07/06/evolving-platform-engineering-for-ai-native-workloads": 1783416826089,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.zh36D5QF8-w.L.X.O/am=QggEOEAmAIA/d=1/ed=1/rs=AHrnUqUSo7qmoUYuImiwgWrChpVlaVC2Xg/m=homeview,_b,_tp": 1783498848679,
     "https://www.cncf.io/blog/2026/07/07/two-months-of-open-community-groups": 1783498849708,
-    "https://www.cncf.io/blog/2026/07/07/why-sandboxing-your-agent-is-not-enough": 1783498850361
+    "https://www.cncf.io/blog/2026/07/07/why-sandboxing-your-agent-is-not-enough": 1783498850361,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.WZDOc0cXe5M.L.X.O/am=QggIcIBMAAAB/d=1/ed=1/rs=AHrnUqWK9a2Vk-cLkfCn6j3m7kLr_nFnbg/m=homeview,_b,_tp": 1783589453337,
+    "https://www.cncf.io/blog/2026/07/08/network-boundary-for-ai-agents-using-nginx-and-opentelemetry": 1783589454277,
+    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1783589455012
   }
 }
