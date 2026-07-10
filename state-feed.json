@@ -2,7 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/07/02/reintroducing-kpt-your-toolchain-for-infrastructure-automation": 1783068961774,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.zh36D5QF8-w.L.X.O/am=QggEOGAmAIA/d=1/ed=1/rs=AHrnUqWYb9nUmaFfEwfu8qzTaeL35kBJYA/m=homeview,_b,_tp": 1783153845201,
     "https://www.cncf.io/blog/2026/07/03/how-data-sovereignty-is-changing-cloud-native-infrastructure-design": 1783153845896,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1783416816788,
@@ -19,6 +18,8 @@
     "https://www.cncf.io/blog/2026/07/07/why-sandboxing-your-agent-is-not-enough": 1783498850361,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.WZDOc0cXe5M.L.X.O/am=QggIcIBMAAAB/d=1/ed=1/rs=AHrnUqWK9a2Vk-cLkfCn6j3m7kLr_nFnbg/m=homeview,_b,_tp": 1783589453337,
     "https://www.cncf.io/blog/2026/07/08/network-boundary-for-ai-agents-using-nginx-and-opentelemetry": 1783589454277,
-    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1783589455012
+    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1783589455012,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.WZDOc0cXe5M.L.X.O/am=QgAIcIBMAAAB/d=1/ed=1/rs=AHrnUqWyczrbxTuZrdQqmF8dgxnA8OVZ0g/m=homeview,_b,_tp": 1783675630310,
+    "https://www.cncf.io/blog/2026/07/09/navigating-the-ingress-nginx-retirement": 1783675631079
   }
 }
