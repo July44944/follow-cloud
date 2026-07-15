@@ -2,15 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1783416816788,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1783416817294,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1783416819248,
-    "https://azure.microsoft.com/en-us/blog/feed": 1783416819826,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1783416820443,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1783416823770,
-    "https://cloud.google.com/blog/products/api-management": 1783416824382,
-    "https://www.cncf.io/blog/2026/07/06/the-4-body-problem-of-sre-why-autonomous-operations-depend-on-context": 1783416825350,
-    "https://www.cncf.io/blog/2026/07/06/evolving-platform-engineering-for-ai-native-workloads": 1783416826089,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.zh36D5QF8-w.L.X.O/am=QggEOEAmAIA/d=1/ed=1/rs=AHrnUqUSo7qmoUYuImiwgWrChpVlaVC2Xg/m=homeview,_b,_tp": 1783498848679,
     "https://www.cncf.io/blog/2026/07/07/two-months-of-open-community-groups": 1783498849708,
     "https://www.cncf.io/blog/2026/07/07/why-sandboxing-your-agent-is-not-enough": 1783498850361,
@@ -20,6 +11,15 @@
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.WZDOc0cXe5M.L.X.O/am=QgAIcIBMAAAB/d=1/ed=1/rs=AHrnUqWyczrbxTuZrdQqmF8dgxnA8OVZ0g/m=homeview,_b,_tp": 1783675630310,
     "https://www.cncf.io/blog/2026/07/09/navigating-the-ingress-nginx-retirement": 1783675631079,
     "https://www.cncf.io/blog/2026/07/10/where-should-ai-workloads-run-a-sovereign-and-sensible-approach": 1783756080666,
-    "https://www.cncf.io/blog/2026/07/13/operating-opentelemetry-at-scale-with-opamp": 1784015715851
+    "https://www.cncf.io/blog/2026/07/13/operating-opentelemetry-at-scale-with-opamp": 1784015715851,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1784102417909,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1784102418422,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1784102419032,
+    "https://azure.microsoft.com/en-us/blog/feed": 1784102419594,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1784102420647,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1784102421409,
+    "https://cloud.google.com/blog/products/api-management": 1784102423672,
+    "https://www.cncf.io/blog/2026/07/14/keycloakcon-japan-2026-navigating-cloud-native-identity-and-the-ai-frontier": 1784102424854,
+    "https://www.cncf.io/blog/2026/07/14/is-a-pod-the-right-deployment-unit-for-an-ai-agent": 1784102425439
   }
 }
