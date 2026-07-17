@@ -2,9 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.WZDOc0cXe5M.L.X.O/am=QggIcIBMAAAB/d=1/ed=1/rs=AHrnUqWK9a2Vk-cLkfCn6j3m7kLr_nFnbg/m=homeview,_b,_tp": 1783589453337,
-    "https://www.cncf.io/blog/2026/07/08/network-boundary-for-ai-agents-using-nginx-and-opentelemetry": 1783589454277,
-    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1783589455012,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.WZDOc0cXe5M.L.X.O/am=QgAIcIBMAAAB/d=1/ed=1/rs=AHrnUqWyczrbxTuZrdQqmF8dgxnA8OVZ0g/m=homeview,_b,_tp": 1783675630310,
     "https://www.cncf.io/blog/2026/07/09/navigating-the-ingress-nginx-retirement": 1783675631079,
     "https://www.cncf.io/blog/2026/07/10/where-should-ai-workloads-run-a-sovereign-and-sensible-approach": 1783756080666,
@@ -20,6 +17,8 @@
     "https://www.cncf.io/blog/2026/07/14/is-a-pod-the-right-deployment-unit-for-an-ai-agent": 1784102425439,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.xHAboiWSo04.L.X.O/am=QgAIcIBMAAAB/d=1/ed=1/rs=AHrnUqUQwpg2sea6yrajjt4K2G31tRlKAQ/m=homeview,_b,_tp": 1784189105784,
     "https://www.cncf.io/blog/2026/07/15/hami-becomes-a-cncf-incubating-project": 1784189106620,
-    "https://www.cncf.io/blog/2026/07/15/on-prem-dbaas-in-2026-platforms-standards-and-gaps": 1784189107221
+    "https://www.cncf.io/blog/2026/07/15/on-prem-dbaas-in-2026-platforms-standards-and-gaps": 1784189107221,
+    "https://www.cncf.io/blog/2026/07/16/running-a-self-hosted-llm-in-kubernetes-with-vllm": 1784275310461,
+    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1784275313179
   }
 }
