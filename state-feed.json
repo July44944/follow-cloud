@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.WZDOc0cXe5M.L.X.O/am=QgAIcIBMAAAB/d=1/ed=1/rs=AHrnUqWyczrbxTuZrdQqmF8dgxnA8OVZ0g/m=homeview,_b,_tp": 1783675630310,
-    "https://www.cncf.io/blog/2026/07/09/navigating-the-ingress-nginx-retirement": 1783675631079,
     "https://www.cncf.io/blog/2026/07/10/where-should-ai-workloads-run-a-sovereign-and-sensible-approach": 1783756080666,
     "https://www.cncf.io/blog/2026/07/13/operating-opentelemetry-at-scale-with-opamp": 1784015715851,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1784102417909,
@@ -19,6 +17,7 @@
     "https://www.cncf.io/blog/2026/07/15/hami-becomes-a-cncf-incubating-project": 1784189106620,
     "https://www.cncf.io/blog/2026/07/15/on-prem-dbaas-in-2026-platforms-standards-and-gaps": 1784189107221,
     "https://www.cncf.io/blog/2026/07/16/running-a-self-hosted-llm-in-kubernetes-with-vllm": 1784275310461,
-    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1784275313179
+    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1784275313179,
+    "https://www.cncf.io/blog/2026/07/17/flipkart-and-litmuschaos-at-kubecon-cloudnativecon-india-2026-a-recap": 1784360493547
   }
 }
