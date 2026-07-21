@@ -2,7 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/07/13/operating-opentelemetry-at-scale-with-opamp": 1784015715851,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1784102417909,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1784102418422,
     "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1784102419032,
@@ -17,6 +16,9 @@
     "https://www.cncf.io/blog/2026/07/15/on-prem-dbaas-in-2026-platforms-standards-and-gaps": 1784189107221,
     "https://www.cncf.io/blog/2026/07/16/running-a-self-hosted-llm-in-kubernetes-with-vllm": 1784275310461,
     "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1784275313179,
-    "https://www.cncf.io/blog/2026/07/17/flipkart-and-litmuschaos-at-kubecon-cloudnativecon-india-2026-a-recap": 1784360493547
+    "https://www.cncf.io/blog/2026/07/17/flipkart-and-litmuschaos-at-kubecon-cloudnativecon-india-2026-a-recap": 1784360493547,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.8LUd2psxwa8.L.X.O/am=QgAIcIBMAAAB/d=1/ed=1/rs=AHrnUqWLtK0ppVwv0QG1xfTJo-sgVgwtuw/m=homeview,_b,_tp": 1784622017259,
+    "https://www.cncf.io/blog/2026/07/20/argocon-japan-2026-meeting-the-maintainers-enterprise-insights-and-the-road-to-argo-cd-3-5": 1784622018271,
+    "https://www.cncf.io/blog/2026/07/20/why-goodput-matters-more-than-throughput-for-llm-serving": 1784622018851
   }
 }
