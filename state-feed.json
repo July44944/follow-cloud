@@ -2,15 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1784102417909,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1784102418422,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1784102419032,
-    "https://azure.microsoft.com/en-us/blog/feed": 1784102419594,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1784102420647,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1784102421409,
-    "https://cloud.google.com/blog/products/api-management": 1784102423672,
-    "https://www.cncf.io/blog/2026/07/14/keycloakcon-japan-2026-navigating-cloud-native-identity-and-the-ai-frontier": 1784102424854,
-    "https://www.cncf.io/blog/2026/07/14/is-a-pod-the-right-deployment-unit-for-an-ai-agent": 1784102425439,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.xHAboiWSo04.L.X.O/am=QgAIcIBMAAAB/d=1/ed=1/rs=AHrnUqUQwpg2sea6yrajjt4K2G31tRlKAQ/m=homeview,_b,_tp": 1784189105784,
     "https://www.cncf.io/blog/2026/07/15/hami-becomes-a-cncf-incubating-project": 1784189106620,
     "https://www.cncf.io/blog/2026/07/15/on-prem-dbaas-in-2026-platforms-standards-and-gaps": 1784189107221,
@@ -19,6 +10,16 @@
     "https://www.cncf.io/blog/2026/07/17/flipkart-and-litmuschaos-at-kubecon-cloudnativecon-india-2026-a-recap": 1784360493547,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.8LUd2psxwa8.L.X.O/am=QgAIcIBMAAAB/d=1/ed=1/rs=AHrnUqWLtK0ppVwv0QG1xfTJo-sgVgwtuw/m=homeview,_b,_tp": 1784622017259,
     "https://www.cncf.io/blog/2026/07/20/argocon-japan-2026-meeting-the-maintainers-enterprise-insights-and-the-road-to-argo-cd-3-5": 1784622018271,
-    "https://www.cncf.io/blog/2026/07/20/why-goodput-matters-more-than-throughput-for-llm-serving": 1784622018851
+    "https://www.cncf.io/blog/2026/07/20/why-goodput-matters-more-than-throughput-for-llm-serving": 1784622018851,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1784708438220,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1784708438725,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1784708440951,
+    "https://azure.microsoft.com/en-us/blog/feed": 1784708441505,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1784708442714,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.kp9PcaqBjV8.L.X.O/am=QgAIcIBMAAAB/d=1/ed=1/rs=AHrnUqXffFCkV9KSRG_wUKRqYoFYK8bwnQ/m=homeview,_b,_tp": 1784708443586,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1784708444711,
+    "https://cloud.google.com/blog/products/api-management": 1784708445407,
+    "https://www.cncf.io/blog/2026/07/21/why-your-agent-needs-access-to-your-documentation": 1784708446374,
+    "https://www.cncf.io/blog/2026/07/21/platform-engineering-for-the-agentic-enterprise-managing-applications-resources-and-ai-agents": 1784708446957
   }
 }
