@@ -2,9 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.xHAboiWSo04.L.X.O/am=QgAIcIBMAAAB/d=1/ed=1/rs=AHrnUqUQwpg2sea6yrajjt4K2G31tRlKAQ/m=homeview,_b,_tp": 1784189105784,
-    "https://www.cncf.io/blog/2026/07/15/hami-becomes-a-cncf-incubating-project": 1784189106620,
-    "https://www.cncf.io/blog/2026/07/15/on-prem-dbaas-in-2026-platforms-standards-and-gaps": 1784189107221,
     "https://www.cncf.io/blog/2026/07/16/running-a-self-hosted-llm-in-kubernetes-with-vllm": 1784275310461,
     "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1784275313179,
     "https://www.cncf.io/blog/2026/07/17/flipkart-and-litmuschaos-at-kubecon-cloudnativecon-india-2026-a-recap": 1784360493547,
@@ -20,6 +17,10 @@
     "https://cloud.google.com/blog/products/ai-machine-learning": 1784708444711,
     "https://cloud.google.com/blog/products/api-management": 1784708445407,
     "https://www.cncf.io/blog/2026/07/21/why-your-agent-needs-access-to-your-documentation": 1784708446374,
-    "https://www.cncf.io/blog/2026/07/21/platform-engineering-for-the-agentic-enterprise-managing-applications-resources-and-ai-agents": 1784708446957
+    "https://www.cncf.io/blog/2026/07/21/platform-engineering-for-the-agentic-enterprise-managing-applications-resources-and-ai-agents": 1784708446957,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.-RvP55faW3Q.L.X.O/am=QgAIcMBMAAAB/d=1/ed=1/rs=AHrnUqXXhrMCo4XmDDzQi8zCkkmeyVww2Q/m=homeview,_b,_tp": 1784794968085,
+    "https://www.cncf.io/blog/2026/07/22/confidential-containers-becomes-a-cncf-incubating-project": 1784794969028,
+    "https://www.cncf.io/blog/2026/07/22/multi-cluster-databases-on-kubernetes-architecture-and-deployment": 1784794969629,
+    "https://www.cncf.io/blog/2026/07/22/i-made-a-policy-engine-think-it-was-in-production": 1784794970216
   }
 }
