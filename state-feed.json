@@ -2,7 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/07/17/flipkart-and-litmuschaos-at-kubecon-cloudnativecon-india-2026-a-recap": 1784360493547,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.8LUd2psxwa8.L.X.O/am=QgAIcIBMAAAB/d=1/ed=1/rs=AHrnUqWLtK0ppVwv0QG1xfTJo-sgVgwtuw/m=homeview,_b,_tp": 1784622017259,
     "https://www.cncf.io/blog/2026/07/20/argocon-japan-2026-meeting-the-maintainers-enterprise-insights-and-the-road-to-argo-cd-3-5": 1784622018271,
     "https://www.cncf.io/blog/2026/07/20/why-goodput-matters-more-than-throughput-for-llm-serving": 1784622018851,
@@ -22,6 +21,9 @@
     "https://www.cncf.io/blog/2026/07/22/i-made-a-policy-engine-think-it-was-in-production": 1784794970216,
     "https://www.cncf.io/blog/2026/07/23/launch-of-the-ai-infra-sig-under-the-cncf-japan-chapter-first-meetup-and-call-for-speakers": 1784881151673,
     "https://www.cncf.io/blog/2026/07/23/sustaining-opentelemetry-what-a-10-week-contributor-cohort-actually-looks-like": 1784881152254,
-    "https://www.cncf.io/blog/2026/07/23/when-kubeflow-meets-cilium-debugging-60-idle-gpus-in-kubernetes": 1784881152837
+    "https://www.cncf.io/blog/2026/07/23/when-kubeflow-meets-cilium-debugging-60-idle-gpus-in-kubernetes": 1784881152837,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.Q_IHiWVDTvs.L.X.O/am=QoAIcMBMAAAB/d=1/ed=1/rs=AHrnUqX51aSKGpEXWgl8jn7IxWDpVnsBMg/m=homeview,_b,_tp": 1784966403807,
+    "https://www.cncf.io/blog/2026/07/24/my-lfx-mentorship-journey-with-kgateway": 1784966404755,
+    "https://www.cncf.io/blog/2026/07/24/opentelemetry-has-graduated-now-what": 1784966405342
   }
 }
