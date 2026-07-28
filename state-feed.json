@@ -2,9 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.8LUd2psxwa8.L.X.O/am=QgAIcIBMAAAB/d=1/ed=1/rs=AHrnUqWLtK0ppVwv0QG1xfTJo-sgVgwtuw/m=homeview,_b,_tp": 1784622017259,
-    "https://www.cncf.io/blog/2026/07/20/argocon-japan-2026-meeting-the-maintainers-enterprise-insights-and-the-road-to-argo-cd-3-5": 1784622018271,
-    "https://www.cncf.io/blog/2026/07/20/why-goodput-matters-more-than-throughput-for-llm-serving": 1784622018851,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1784708438220,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1784708438725,
     "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1784708440951,
@@ -24,6 +21,8 @@
     "https://www.cncf.io/blog/2026/07/23/when-kubeflow-meets-cilium-debugging-60-idle-gpus-in-kubernetes": 1784881152837,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.Q_IHiWVDTvs.L.X.O/am=QoAIcMBMAAAB/d=1/ed=1/rs=AHrnUqX51aSKGpEXWgl8jn7IxWDpVnsBMg/m=homeview,_b,_tp": 1784966403807,
     "https://www.cncf.io/blog/2026/07/24/my-lfx-mentorship-journey-with-kgateway": 1784966404755,
-    "https://www.cncf.io/blog/2026/07/24/opentelemetry-has-graduated-now-what": 1784966405342
+    "https://www.cncf.io/blog/2026/07/24/opentelemetry-has-graduated-now-what": 1784966405342,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.pfHSAeZGbsY.L.X.O/am=QoAIcMBMAAAB/d=1/ed=1/rs=AHrnUqUONEsZfMtZO44ElQc4odme_1yO8g/m=homeview,_b,_tp": 1785227184878,
+    "https://www.cncf.io/blog/2026/07/27/federating-clusters-for-zero-downtime-kubernetes": 1785227185720
   }
 }
