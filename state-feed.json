@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.pfHSAeZGbsY.L.X.O/am=QoAIcMBMAAAB/d=1/ed=1/rs=AHrnUqUONEsZfMtZO44ElQc4odme_1yO8g/m=homeview,_b,_tp": 1785227184878,
-    "https://www.cncf.io/blog/2026/07/27/federating-clusters-for-zero-downtime-kubernetes": 1785227185720,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1785313946657,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1785313947175,
     "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1785313948450,
@@ -19,6 +17,8 @@
     "https://www.cncf.io/blog/2026/07/29/your-kubernetes-health-checks-are-accidentally-waking-your-services-heres-the-fix": 1785399448833,
     "https://www.cncf.io/blog/2026/07/30/runtime-supply-chain-verification-using-the-node-resource-interface-nri": 1785487362033,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.tflsSQnnJuw.L.X.O/am=ggAR4IBMAAAB/d=1/ed=1/rs=AHrnUqURrPpmBHIqH79wfSsQOZhQEpTgSQ/m=homeview,_b,_tp": 1785571979606,
-    "https://www.cncf.io/blog/2026/07/31/scaling-kubernetes-pods-with-keda-based-on-amazon-sqs-queue-depth": 1785571980381
+    "https://www.cncf.io/blog/2026/07/31/scaling-kubernetes-pods-with-keda-based-on-amazon-sqs-queue-depth": 1785571980381,
+    "https://www.cncf.io/blog/2026/08/03/kubeflow-sdk-evolution-one-million-downloads-and-counting": 1785832159033,
+    "https://www.cncf.io/blog/2026/08/03/cortex-completes-ostif-security-audit": 1785832159555
   }
 }
