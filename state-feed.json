@@ -2,7 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/07/30/runtime-supply-chain-verification-using-the-node-resource-interface-nri": 1785487362033,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.tflsSQnnJuw.L.X.O/am=ggAR4IBMAAAB/d=1/ed=1/rs=AHrnUqURrPpmBHIqH79wfSsQOZhQEpTgSQ/m=homeview,_b,_tp": 1785571979606,
     "https://www.cncf.io/blog/2026/07/31/scaling-kubernetes-pods-with-keda-based-on-amazon-sqs-queue-depth": 1785571980381,
     "https://www.cncf.io/blog/2026/08/03/kubeflow-sdk-evolution-one-million-downloads-and-counting": 1785832159033,
@@ -19,6 +18,9 @@
     "https://www.cncf.io/blog/2026/08/05/opencost-1-121-0-first-of-a-kind-kubernetes-inference-cost-tracking": 1786004851162,
     "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1786004851884,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.Tup_gjztfpM.L.X.O/am=ggBR4UAmAIA/d=1/ed=1/rs=AHrnUqXbQyDxmra8ufOjjzX4bGT0RfwNmQ/m=homeview,_b,_tp": 1786086444878,
-    "https://www.cncf.io/blog/2026/08/06/litmuschaos-q1-q2-2026-update-community-contributions-and-project-progress": 1786086445554
+    "https://www.cncf.io/blog/2026/08/06/litmuschaos-q1-q2-2026-update-community-contributions-and-project-progress": 1786086445554,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.YZYmqFZsQUw.L.X.O/am=AgGiwoFMAAAB/d=1/ed=1/rs=AHrnUqWKU9134BQb3UrJNvDmI3oiy4oRrw/m=homeview,_b,_tp": 1786171375713,
+    "https://www.cncf.io/blog/2026/08/07/does-kubernetes-dra-replace-hami": 1786171376557,
+    "https://www.cncf.io/blog/2026/08/07/shadow-ai-in-ci-cd-threat-modeling-the-path-from-developer-laptop-to-kubernetes": 1786171377132
   }
 }
