@@ -2,7 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/08/11/a-practical-guide-to-solving-when-zerozerotwo-in-mesh-observability": 1786519026699,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.03qvgYyyvr8.L.X.O/am=AgFQ4UAmAIA/d=1/ed=1/rs=AHrnUqVwT2BsOl70ZJ_fS7sWym6u83wHtg/m=homeview,_b,_tp": 1786605569421,
     "https://www.cncf.io/blog/2026/08/12/good-apps-arent-born-theyre-guided-building-observable-policy-as-code": 1786605570199,
     "https://www.cncf.io/blog/2026/08/12/advancing-ai-model-interoperability-with-docker-and-modelpack": 1786605570776,
@@ -19,6 +18,8 @@
     "https://www.cncf.io/blog/2026/08/14/eleven-minutes-zero-humans-building-a-self-healing-kubernetes-upgrade-pipeline-on-kairos": 1786775381536,
     "https://www.cncf.io/blog/2026/08/17/welcome-falkey-the-falco-and-ky-the-kyverno-pyrenees": 1787034874610,
     "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1787034875174,
-    "https://www.cncf.io/blog/2026/08/18/cloud-native-platform-sovereignty-through-multi-plane-architecture": 1787121357856
+    "https://www.cncf.io/blog/2026/08/18/cloud-native-platform-sovereignty-through-multi-plane-architecture": 1787121357856,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.neOdt7bvm9Y.L.X.O/am=AgEQYEAmAIA/d=1/ed=1/rs=AHrnUqXp0cfPK2boIBCpQ1p9QHwmwtEdaQ/m=homeview,_b,_tp": 1787207861677,
+    "https://www.cncf.io/blog/2026/08/19/kyverno-is-a-platform-primitive-not-a-security-tool": 1787207862450
   }
 }
