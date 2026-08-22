@@ -2,23 +2,20 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1786691806247,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1786691806753,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1786691808950,
-    "https://azure.microsoft.com/en-us/blog/feed": 1786691809575,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1786691810213,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.03qvgYyyvr8.L.X.O/am=AgEQ4EAmAIA/d=1/ed=1/rs=AHrnUqWpGsE5LOSAT-E6JRm3zGXH6ngm6A/m=homeview,_b,_tp": 1786691811572,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1786691814519,
-    "https://cloud.google.com/blog/products/api-management": 1786691815251,
-    "https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack": 1786691816245,
-    "https://www.cncf.io/blog/2026/08/13/llmops-and-platform-engineering-who-should-own-the-ai-pipeline": 1786691816977,
-    "https://www.cncf.io/blog/2026/08/14/eleven-minutes-zero-humans-building-a-self-healing-kubernetes-upgrade-pipeline-on-kairos": 1786775381536,
     "https://www.cncf.io/blog/2026/08/17/welcome-falkey-the-falco-and-ky-the-kyverno-pyrenees": 1787034874610,
     "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1787034875174,
     "https://www.cncf.io/blog/2026/08/18/cloud-native-platform-sovereignty-through-multi-plane-architecture": 1787121357856,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.neOdt7bvm9Y.L.X.O/am=AgEQYEAmAIA/d=1/ed=1/rs=AHrnUqXp0cfPK2boIBCpQ1p9QHwmwtEdaQ/m=homeview,_b,_tp": 1787207861677,
     "https://www.cncf.io/blog/2026/08/19/kyverno-is-a-platform-primitive-not-a-security-tool": 1787207862450,
     "https://www.cncf.io/blog/2026/08/20/announcing-h1-2027-kcds": 1787294264281,
-    "https://www.cncf.io/blog/2026/08/20/german-ciphers-telegrams-and-cloud-native-data-sovereignty": 1787294264854
+    "https://www.cncf.io/blog/2026/08/20/german-ciphers-telegrams-and-cloud-native-data-sovereignty": 1787294264854,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1787380289741,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1787380290246,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1787380291419,
+    "https://azure.microsoft.com/en-us/blog/feed": 1787380291952,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1787380292550,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1787380293504,
+    "https://cloud.google.com/blog/products/api-management": 1787380294485,
+    "https://www.cncf.io/blog/2026/08/21/how-to-turn-slow-queries-into-actionable-reliability-metrics-with-opentelemetry": 1787380295370
   }
 }
