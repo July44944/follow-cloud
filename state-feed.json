@@ -2,7 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/08/18/cloud-native-platform-sovereignty-through-multi-plane-architecture": 1787121357856,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.neOdt7bvm9Y.L.X.O/am=AgEQYEAmAIA/d=1/ed=1/rs=AHrnUqXp0cfPK2boIBCpQ1p9QHwmwtEdaQ/m=homeview,_b,_tp": 1787207861677,
     "https://www.cncf.io/blog/2026/08/19/kyverno-is-a-platform-primitive-not-a-security-tool": 1787207862450,
     "https://www.cncf.io/blog/2026/08/20/announcing-h1-2027-kcds": 1787294264281,
@@ -16,6 +15,8 @@
     "https://cloud.google.com/blog/products/api-management": 1787380294485,
     "https://www.cncf.io/blog/2026/08/21/how-to-turn-slow-queries-into-actionable-reliability-metrics-with-opentelemetry": 1787380295370,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.fLgGeuw7bOQ.L.X.O/am=AgEQYEAmAIA/d=1/ed=1/rs=AHrnUqWObye3v2xLMpNRsrTGLvyZGalikA/m=homeview,_b,_tp": 1787639866622,
-    "https://www.cncf.io/blog/2026/08/24/automating-root-cause-analysis-at-scale-multi-signal-correlation-for-cloud-native-incident-response": 1787639867503
+    "https://www.cncf.io/blog/2026/08/24/automating-root-cause-analysis-at-scale-multi-signal-correlation-for-cloud-native-incident-response": 1787639867503,
+    "https://www.cncf.io/blog/2026/08/25/the-lazy-developers-guide-to-observing-your-own-code": 1787726362312,
+    "https://www.cncf.io/blog/2026/08/25/stop-trying-to-learn-all-of-kubernetes-at-once": 1787726362840
   }
 }
