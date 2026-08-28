@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/08/20/announcing-h1-2027-kcds": 1787294264281,
-    "https://www.cncf.io/blog/2026/08/20/german-ciphers-telegrams-and-cloud-native-data-sovereignty": 1787294264854,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1787380289741,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1787380290246,
     "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1787380291419,
@@ -17,6 +15,8 @@
     "https://www.cncf.io/blog/2026/08/25/the-lazy-developers-guide-to-observing-your-own-code": 1787726362312,
     "https://www.cncf.io/blog/2026/08/25/stop-trying-to-learn-all-of-kubernetes-at-once": 1787726362840,
     "https://www.cncf.io/blog/2026/08/27/building-an-ai-factory-on-kubernetes": 1787850919287,
-    "https://www.cncf.io/blog/2026/08/26/governance-guidance-for-cncf-projects-choosing-the-right-structure-for-your-projects-size-and-stage": 1787850919971
+    "https://www.cncf.io/blog/2026/08/26/governance-guidance-for-cncf-projects-choosing-the-right-structure-for-your-projects-size-and-stage": 1787850919971,
+    "https://www.cncf.io/blog/2026/08/28/scale-before-the-spike-predictive-autoscaling-for-gpu-workloads-on-kubernetes": 1787940470403,
+    "https://www.cncf.io/blog/2026/08/28/your-kubernetes-platform-is-ready-for-containers-is-it-ready-for-ai": 1787940470961
   }
 }
