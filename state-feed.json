@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/08/25/the-lazy-developers-guide-to-observing-your-own-code": 1787726362312,
-    "https://www.cncf.io/blog/2026/08/25/stop-trying-to-learn-all-of-kubernetes-at-once": 1787726362840,
     "https://www.cncf.io/blog/2026/08/27/building-an-ai-factory-on-kubernetes": 1787850919287,
     "https://www.cncf.io/blog/2026/08/26/governance-guidance-for-cncf-projects-choosing-the-right-structure-for-your-projects-size-and-stage": 1787850919971,
     "https://www.cncf.io/blog/2026/08/28/scale-before-the-spike-predictive-autoscaling-for-gpu-workloads-on-kubernetes": 1787940470403,
@@ -16,6 +14,9 @@
     "https://cloud.google.com/blog/products/ai-machine-learning": 1788005472236,
     "https://cloud.google.com/blog/products/api-management": 1788005472941,
     "https://www.cncf.io/blog/2026/08/31/opentelemetry-has-graduated-now-what-2": 1788179516428,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.ngjApV0X-tg.L.X.O/am=AgIgwIBMAAAB/d=1/ed=1/rs=AHrnUqVadiMy_UakcyL3bWtbrEsxI7wyjw/m=homeview,_b,_tp": 1788260388616
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.ngjApV0X-tg.L.X.O/am=AgIgwIBMAAAB/d=1/ed=1/rs=AHrnUqVadiMy_UakcyL3bWtbrEsxI7wyjw/m=homeview,_b,_tp": 1788260388616,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.ngjApV0X-tg.L.X.O/am=AgIgwIBMgAAB/d=1/ed=1/rs=AHrnUqUtRXNGaMWa0S2adgR2Uli2NkmYnw/m=homeview,_b,_tp": 1788344987374,
+    "https://www.cncf.io/blog/2026/09/01/platform-engineering-maturity-from-toolchain-to-self-service": 1788344988042,
+    "https://www.cncf.io/blog/2026/08/31/observability-in-kubernetes-from-metrics-to-meaning": 1788344988592
   }
 }
