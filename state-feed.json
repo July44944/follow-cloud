@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/08/28/scale-before-the-spike-predictive-autoscaling-for-gpu-workloads-on-kubernetes": 1787940470403,
-    "https://www.cncf.io/blog/2026/08/28/your-kubernetes-platform-is-ready-for-containers-is-it-ready-for-ai": 1787940470961,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1788005467130,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1788005467642,
     "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1788005469784,
@@ -20,6 +18,9 @@
     "https://www.cncf.io/blog/2026/09/02/metal3-meets-kubevirtbmc-provisioning-kubevirt-vms-like-bare-metal": 1788431723268,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.V1vsZD8tUpM.L.X.O/am=AgRAgAGZAAAC/d=1/ed=1/rs=AHrnUqXjIwUKfgR7AuCEUGhdgR5KFAL3Mg/m=homeview,_b,_tp": 1788517654507,
     "https://www.cncf.io/blog/2026/09/03/join-ospology-ospo-summit-china-2026-in-shanghai": 1788517655517,
-    "https://www.cncf.io/blog/2026/09/03/migrating-a-critical-kubernetes-deployment-from-the-default-namespace-without-any-downtime": 1788517656080
+    "https://www.cncf.io/blog/2026/09/03/migrating-a-critical-kubernetes-deployment-from-the-default-namespace-without-any-downtime": 1788517656080,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.brCuxDpZXZY.L.X.O/am=AgRAgAGZAAAC/d=1/ed=1/rs=AHrnUqWNfHTfHlipNid_IHJMguG7joLD6Q/m=homeview,_b,_tp": 1788601968545,
+    "https://www.cncf.io/blog/2026/09/04/cpu-gpu-why-ai-platform-engineering-is-a-heterogeneous-infrastructure-problem": 1788601969399,
+    "https://www.cncf.io/blog/2026/09/04/kubernetes-isnt-new-but-ai-makes-it-scary-again": 1788601970018
   }
 }
