@@ -2,13 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1788005467130,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1788005467642,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1788005469784,
-    "https://azure.microsoft.com/en-us/blog/feed": 1788005470363,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1788005471387,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1788005472236,
-    "https://cloud.google.com/blog/products/api-management": 1788005472941,
     "https://www.cncf.io/blog/2026/08/31/opentelemetry-has-graduated-now-what-2": 1788179516428,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.ngjApV0X-tg.L.X.O/am=AgIgwIBMAAAB/d=1/ed=1/rs=AHrnUqVadiMy_UakcyL3bWtbrEsxI7wyjw/m=homeview,_b,_tp": 1788260388616,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.ngjApV0X-tg.L.X.O/am=AgIgwIBMgAAB/d=1/ed=1/rs=AHrnUqUtRXNGaMWa0S2adgR2Uli2NkmYnw/m=homeview,_b,_tp": 1788344987374,
@@ -21,6 +14,13 @@
     "https://www.cncf.io/blog/2026/09/03/migrating-a-critical-kubernetes-deployment-from-the-default-namespace-without-any-downtime": 1788517656080,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.brCuxDpZXZY.L.X.O/am=AgRAgAGZAAAC/d=1/ed=1/rs=AHrnUqWNfHTfHlipNid_IHJMguG7joLD6Q/m=homeview,_b,_tp": 1788601968545,
     "https://www.cncf.io/blog/2026/09/04/cpu-gpu-why-ai-platform-engineering-is-a-heterogeneous-infrastructure-problem": 1788601969399,
-    "https://www.cncf.io/blog/2026/09/04/kubernetes-isnt-new-but-ai-makes-it-scary-again": 1788601970018
+    "https://www.cncf.io/blog/2026/09/04/kubernetes-isnt-new-but-ai-makes-it-scary-again": 1788601970018,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1788689413337,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1788689413843,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1788689414793,
+    "https://azure.microsoft.com/en-us/blog/feed": 1788689415336,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1788689416252,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1788689417122,
+    "https://cloud.google.com/blog/products/api-management": 1788689417821
   }
 }
