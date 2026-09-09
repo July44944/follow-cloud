@@ -2,10 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.ngjApV0X-tg.L.X.O/am=AgIgwIBMAAAB/d=1/ed=1/rs=AHrnUqVadiMy_UakcyL3bWtbrEsxI7wyjw/m=homeview,_b,_tp": 1788260388616,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.ngjApV0X-tg.L.X.O/am=AgIgwIBMgAAB/d=1/ed=1/rs=AHrnUqUtRXNGaMWa0S2adgR2Uli2NkmYnw/m=homeview,_b,_tp": 1788344987374,
-    "https://www.cncf.io/blog/2026/09/01/platform-engineering-maturity-from-toolchain-to-self-service": 1788344988042,
-    "https://www.cncf.io/blog/2026/08/31/observability-in-kubernetes-from-metrics-to-meaning": 1788344988592,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.rjTddBrHKZo.L.X.O/am=AgIgwIBMAAAB/d=1/ed=1/rs=AHrnUqVMIHzll7cWAJDI3TPjNzwxHxhK_w/m=homeview,_b,_tp": 1788431722581,
     "https://www.cncf.io/blog/2026/09/02/metal3-meets-kubevirtbmc-provisioning-kubevirt-vms-like-bare-metal": 1788431723268,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.V1vsZD8tUpM.L.X.O/am=AgRAgAGZAAAC/d=1/ed=1/rs=AHrnUqXjIwUKfgR7AuCEUGhdgR5KFAL3Mg/m=homeview,_b,_tp": 1788517654507,
@@ -22,6 +18,9 @@
     "https://cloud.google.com/blog/products/ai-machine-learning": 1788689417122,
     "https://cloud.google.com/blog/products/api-management": 1788689417821,
     "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1788863347179,
-    "https://www.cncf.io/blog/2026/09/07/handling-vulnerability-reports-recipe-card": 1788863347751
+    "https://www.cncf.io/blog/2026/09/07/handling-vulnerability-reports-recipe-card": 1788863347751,
+    "https://www.cncf.io/blog/2026/09/09/how-cloud-native-goes-ai-native": 1788950422059,
+    "https://www.cncf.io/blog/2026/09/08/kubernetes-access-via-an-identity-provider-public-client-not-confidential": 1788950422630,
+    "https://www.cncf.io/blog/2026/09/08/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file": 1788950423205
   }
 }
