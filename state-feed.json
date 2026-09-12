@@ -2,9 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.brCuxDpZXZY.L.X.O/am=AgRAgAGZAAAC/d=1/ed=1/rs=AHrnUqWNfHTfHlipNid_IHJMguG7joLD6Q/m=homeview,_b,_tp": 1788601968545,
-    "https://www.cncf.io/blog/2026/09/04/cpu-gpu-why-ai-platform-engineering-is-a-heterogeneous-infrastructure-problem": 1788601969399,
-    "https://www.cncf.io/blog/2026/09/04/kubernetes-isnt-new-but-ai-makes-it-scary-again": 1788601970018,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1788689413337,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1788689413843,
     "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1788689414793,
@@ -19,6 +16,7 @@
     "https://www.cncf.io/blog/2026/09/08/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file": 1788950423205,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.fXNOz0fW25o.L.X.O/am=AgRAgAGZAAAC/d=1/ed=1/rs=AHrnUqWMBgqSmdZtNAX4ThPUu7KAeqMotw/m=homeview,_b,_tp": 1789036127159,
     "https://www.cncf.io/blog/2026/09/09/whose-gpus-are-these-anyway-secure-self-service-metrics-for-multi-tenant-kubernetes": 1789036127943,
-    "https://www.cncf.io/blog/2026/09/10/kubernetes-disaster-recovery-guidance-from-three-reproducible-failure-scenarios": 1789122631614
+    "https://www.cncf.io/blog/2026/09/10/kubernetes-disaster-recovery-guidance-from-three-reproducible-failure-scenarios": 1789122631614,
+    "https://www.cncf.io/blog/2026/09/11/building-a-reliable-cloud-native-foundation-for-distributed-ai-training": 1789207135320
   }
 }
