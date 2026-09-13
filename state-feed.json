@@ -2,13 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1788689413337,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1788689413843,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1788689414793,
-    "https://azure.microsoft.com/en-us/blog/feed": 1788689415336,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1788689416252,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1788689417122,
-    "https://cloud.google.com/blog/products/api-management": 1788689417821,
     "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1788863347179,
     "https://www.cncf.io/blog/2026/09/07/handling-vulnerability-reports-recipe-card": 1788863347751,
     "https://www.cncf.io/blog/2026/09/09/how-cloud-native-goes-ai-native": 1788950422059,
@@ -17,6 +10,13 @@
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.fXNOz0fW25o.L.X.O/am=AgRAgAGZAAAC/d=1/ed=1/rs=AHrnUqWMBgqSmdZtNAX4ThPUu7KAeqMotw/m=homeview,_b,_tp": 1789036127159,
     "https://www.cncf.io/blog/2026/09/09/whose-gpus-are-these-anyway-secure-self-service-metrics-for-multi-tenant-kubernetes": 1789036127943,
     "https://www.cncf.io/blog/2026/09/10/kubernetes-disaster-recovery-guidance-from-three-reproducible-failure-scenarios": 1789122631614,
-    "https://www.cncf.io/blog/2026/09/11/building-a-reliable-cloud-native-foundation-for-distributed-ai-training": 1789207135320
+    "https://www.cncf.io/blog/2026/09/11/building-a-reliable-cloud-native-foundation-for-distributed-ai-training": 1789207135320,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1789297186775,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1789297187280,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1789297187871,
+    "https://azure.microsoft.com/en-us/blog/feed": 1789297188401,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1789297188953,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1789297190030,
+    "https://cloud.google.com/blog/products/api-management": 1789297191321
   }
 }
