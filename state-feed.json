@@ -17,6 +17,7 @@
     "https://azure.microsoft.com/en-us/blog/feed": 1789297188401,
     "https://azure.microsoft.com/en-us/blog/comments/feed": 1789297188953,
     "https://cloud.google.com/blog/products/ai-machine-learning": 1789297190030,
-    "https://cloud.google.com/blog/products/api-management": 1789297191321
+    "https://cloud.google.com/blog/products/api-management": 1789297191321,
+    "https://www.cncf.io/blog/2026/09/14/cilium-1-20-gateway-api-externalauth-tcproute-udproute-eni-ipam-for-ipv6-and-more": 1789385808484
   }
 }
