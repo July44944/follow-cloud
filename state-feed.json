@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1788863347179,
-    "https://www.cncf.io/blog/2026/09/07/handling-vulnerability-reports-recipe-card": 1788863347751,
     "https://www.cncf.io/blog/2026/09/09/how-cloud-native-goes-ai-native": 1788950422059,
     "https://www.cncf.io/blog/2026/09/08/kubernetes-access-via-an-identity-provider-public-client-not-confidential": 1788950422630,
     "https://www.cncf.io/blog/2026/09/08/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file": 1788950423205,
@@ -18,6 +16,7 @@
     "https://azure.microsoft.com/en-us/blog/comments/feed": 1789297188953,
     "https://cloud.google.com/blog/products/ai-machine-learning": 1789297190030,
     "https://cloud.google.com/blog/products/api-management": 1789297191321,
-    "https://www.cncf.io/blog/2026/09/14/cilium-1-20-gateway-api-externalauth-tcproute-udproute-eni-ipam-for-ipv6-and-more": 1789385808484
+    "https://www.cncf.io/blog/2026/09/14/cilium-1-20-gateway-api-externalauth-tcproute-udproute-eni-ipam-for-ipv6-and-more": 1789385808484,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.gOVd79-LRt8.L.X.O/am=ggAIMCATAEA/d=1/ed=1/rs=AHrnUqXeGq0FZzMmC8tsPnqtyyNbYiWFUw/m=homeview,_b,_tp": 1789469839307
   }
 }
