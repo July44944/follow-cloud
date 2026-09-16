@@ -2,9 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/09/09/how-cloud-native-goes-ai-native": 1788950422059,
-    "https://www.cncf.io/blog/2026/09/08/kubernetes-access-via-an-identity-provider-public-client-not-confidential": 1788950422630,
-    "https://www.cncf.io/blog/2026/09/08/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file": 1788950423205,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.fXNOz0fW25o.L.X.O/am=AgRAgAGZAAAC/d=1/ed=1/rs=AHrnUqWMBgqSmdZtNAX4ThPUu7KAeqMotw/m=homeview,_b,_tp": 1789036127159,
     "https://www.cncf.io/blog/2026/09/09/whose-gpus-are-these-anyway-secure-self-service-metrics-for-multi-tenant-kubernetes": 1789036127943,
     "https://www.cncf.io/blog/2026/09/10/kubernetes-disaster-recovery-guidance-from-three-reproducible-failure-scenarios": 1789122631614,
@@ -17,6 +14,8 @@
     "https://cloud.google.com/blog/products/ai-machine-learning": 1789297190030,
     "https://cloud.google.com/blog/products/api-management": 1789297191321,
     "https://www.cncf.io/blog/2026/09/14/cilium-1-20-gateway-api-externalauth-tcproute-udproute-eni-ipam-for-ipv6-and-more": 1789385808484,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.gOVd79-LRt8.L.X.O/am=ggAIMCATAEA/d=1/ed=1/rs=AHrnUqXeGq0FZzMmC8tsPnqtyyNbYiWFUw/m=homeview,_b,_tp": 1789469839307
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.gOVd79-LRt8.L.X.O/am=ggAIMCATAEA/d=1/ed=1/rs=AHrnUqXeGq0FZzMmC8tsPnqtyyNbYiWFUw/m=homeview,_b,_tp": 1789469839307,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.cfJsdXqhl2M.L.X.O/am=ggAIMCATAEA/d=1/ed=1/rs=AHrnUqWju8p1RISfYBouUEU5Acyd9HnhkA/m=homeview,_b,_tp": 1789555501946,
+    "https://www.cncf.io/blog/2026/09/15/what-i-learned-organizing-kcd-lima-2026": 1789555502760
   }
 }
