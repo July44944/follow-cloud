@@ -2,10 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.cfJsdXqhl2M.L.X.O/am=ggAIMCATAEA/d=1/ed=1/rs=AHrnUqWju8p1RISfYBouUEU5Acyd9HnhkA/m=homeview,_b,_tp": 1789555501946,
-    "https://www.cncf.io/blog/2026/09/15/what-i-learned-organizing-kcd-lima-2026": 1789555502760,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.H9OjGkEJgBE.L.X.O/am=ggAIMCATAEA/d=1/ed=1/rs=AHrnUqXsjPegujYYVMAXfd3ZFWKR9pAhnQ/m=homeview,_b,_tp": 1789642314516,
-    "https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend": 1789642315531,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.H9OjGkEJgBE.L.X.O/am=ggAAMCATAEA/d=1/ed=1/rs=AHrnUqWo1tSsKsBlyrHa9W1pyai5s_fpfw/m=homeview,_b,_tp": 1789727244336,
     "https://www.cncf.io/blog/2026/09/17/opentelemetry-everywhere-migrating-a-metrics-platform-at-scale": 1789727245046,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.R2RgAFetiwE.L.X.O/am=AgEAYEAmAIA/d=1/ed=1/rs=AHrnUqWAP73TgHYsmD7xrwYw7EmPeIh46g/m=homeview,_b,_tp": 1789812764236,
@@ -16,6 +12,7 @@
     "https://azure.microsoft.com/en-us/blog/comments/feed": 1789991406822,
     "https://cloud.google.com/blog/products/ai-machine-learning": 1789991407703,
     "https://cloud.google.com/blog/products/api-management": 1789991409796,
-    "https://www.cncf.io/blog/2026/09/22/from-attendee-badge-to-speaker-badge-my-first-kubecon-at-kubecon-cloudnativecon-india-2026": 1790160007428
+    "https://www.cncf.io/blog/2026/09/22/from-attendee-badge-to-speaker-badge-my-first-kubecon-at-kubecon-cloudnativecon-india-2026": 1790160007428,
+    "https://www.cncf.io/blog/2026/09/23/which-hat-am-i-wearing-right-now": 1790247642714
   }
 }
