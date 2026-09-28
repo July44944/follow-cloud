@@ -2,17 +2,18 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1789991403200,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1789991403713,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1789991404521,
-    "https://azure.microsoft.com/en-us/blog/feed": 1789991405105,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1789991406822,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1789991407703,
-    "https://cloud.google.com/blog/products/api-management": 1789991409796,
     "https://www.cncf.io/blog/2026/09/22/from-attendee-badge-to-speaker-badge-my-first-kubecon-at-kubecon-cloudnativecon-india-2026": 1790160007428,
     "https://www.cncf.io/blog/2026/09/23/which-hat-am-i-wearing-right-now": 1790247642714,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.sVtXOu38Gns.L.X.O/am=AgEAYEAmAIA/d=1/ed=1/rs=AHrnUqXlDPHvjL3aIAk078UE-lIuBwEYmg/m=homeview,_b,_tp": 1790334033726,
     "https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition": 1790334035776,
-    "https://www.cncf.io/blog/2026/09/24/observability-day-where-the-community-comes-together-at-kubecon-cloudnativecon-north-america-2026": 1790334036321
+    "https://www.cncf.io/blog/2026/09/24/observability-day-where-the-community-comes-together-at-kubecon-cloudnativecon-north-america-2026": 1790334036321,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1790599499477,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1790599500000,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1790599500747,
+    "https://azure.microsoft.com/en-us/blog/feed": 1790599501425,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1790599502207,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1790599503262,
+    "https://cloud.google.com/blog/products/api-management": 1790599503859,
+    "https://www.cncf.io/blog/2026/09/28/the-case-for-a-cloud-native-agent-harness": 1790599504910
   }
 }
