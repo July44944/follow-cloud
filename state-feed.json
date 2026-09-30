@@ -2,7 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/09/22/from-attendee-badge-to-speaker-badge-my-first-kubecon-at-kubecon-cloudnativecon-india-2026": 1790160007428,
     "https://www.cncf.io/blog/2026/09/23/which-hat-am-i-wearing-right-now": 1790247642714,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.sVtXOu38Gns.L.X.O/am=AgEAYEAmAIA/d=1/ed=1/rs=AHrnUqXlDPHvjL3aIAk078UE-lIuBwEYmg/m=homeview,_b,_tp": 1790334033726,
     "https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition": 1790334035776,
@@ -15,6 +14,8 @@
     "https://cloud.google.com/blog/products/ai-machine-learning": 1790599503262,
     "https://cloud.google.com/blog/products/api-management": 1790599503859,
     "https://www.cncf.io/blog/2026/09/28/the-case-for-a-cloud-native-agent-harness": 1790599504910,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.qDsocuIARWg.L.X.O/am=AgEAYEAmAIA/d=1/ed=1/rs=AHrnUqVlZDZAIdW5pkuT6HHa92Ky7pjX8g/m=homeview,_b,_tp": 1790683274511
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.qDsocuIARWg.L.X.O/am=AgEAYEAmAIA/d=1/ed=1/rs=AHrnUqVlZDZAIdW5pkuT6HHa92Ky7pjX8g/m=homeview,_b,_tp": 1790683274511,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.qDsocuIARWg.L.X.O/am=AhEAYEAmAIA/d=1/ed=1/rs=AHrnUqXFqipntgI8z9SELITeIuqdNPz2fg/m=homeview,_b,_tp": 1790768969922,
+    "https://www.cncf.io/blog/2026/09/30/from-40-seconds-to-under-10-rebuilding-incident-detection-on-opentelemetry-apache-kafka-and-apache-flink-on-kubernetes": 1790768970958
   }
 }
