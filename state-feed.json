@@ -2,14 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1790599499477,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1790599500000,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1790599500747,
-    "https://azure.microsoft.com/en-us/blog/feed": 1790599501425,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1790599502207,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1790599503262,
-    "https://cloud.google.com/blog/products/api-management": 1790599503859,
-    "https://www.cncf.io/blog/2026/09/28/the-case-for-a-cloud-native-agent-harness": 1790599504910,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.qDsocuIARWg.L.X.O/am=AgEAYEAmAIA/d=1/ed=1/rs=AHrnUqVlZDZAIdW5pkuT6HHa92Ky7pjX8g/m=homeview,_b,_tp": 1790683274511,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.qDsocuIARWg.L.X.O/am=AhEAYEAmAIA/d=1/ed=1/rs=AHrnUqXFqipntgI8z9SELITeIuqdNPz2fg/m=homeview,_b,_tp": 1790768969922,
     "https://www.cncf.io/blog/2026/09/30/from-40-seconds-to-under-10-rebuilding-incident-detection-on-opentelemetry-apache-kafka-and-apache-flink-on-kubernetes": 1790768970958,
@@ -19,6 +11,13 @@
     "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-from-user-to-contributor-to-maintainer": 1790941633420,
     "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-infrastructure-engineer-journey": 1790941633960,
     "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-application-developer-journey": 1790941634515,
-    "https://www.cncf.io/blog/2026/10/02/kubecon-cloudnativecon-north-america-2026-join-the-cloud-native-community-at-opentofu-day": 1791025240798
+    "https://www.cncf.io/blog/2026/10/02/kubecon-cloudnativecon-north-america-2026-join-the-cloud-native-community-at-opentofu-day": 1791025240798,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1791206780529,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1791206781035,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1791206783261,
+    "https://azure.microsoft.com/en-us/blog/feed": 1791206783858,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1791206785023,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1791206785938,
+    "https://cloud.google.com/blog/products/api-management": 1791206786628
   }
 }
