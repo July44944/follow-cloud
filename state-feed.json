@@ -2,7 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.qDsocuIARWg.L.X.O/am=AgEAYEAmAIA/d=1/ed=1/rs=AHrnUqVlZDZAIdW5pkuT6HHa92Ky7pjX8g/m=homeview,_b,_tp": 1790683274511,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.qDsocuIARWg.L.X.O/am=AhEAYEAmAIA/d=1/ed=1/rs=AHrnUqXFqipntgI8z9SELITeIuqdNPz2fg/m=homeview,_b,_tp": 1790768969922,
     "https://www.cncf.io/blog/2026/09/30/from-40-seconds-to-under-10-rebuilding-incident-detection-on-opentelemetry-apache-kafka-and-apache-flink-on-kubernetes": 1790768970958,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.AvDQShz-E7I.L.X.O/am=AhEAYEAmAIA/d=1/ed=1/rs=AHrnUqX-fln8Nb4wJlbfIuD2LKpVhtoMOQ/m=homeview,_b,_tp": 1790857137195,
@@ -18,6 +17,8 @@
     "https://azure.microsoft.com/en-us/blog/feed": 1791206783858,
     "https://azure.microsoft.com/en-us/blog/comments/feed": 1791206785023,
     "https://cloud.google.com/blog/products/ai-machine-learning": 1791206785938,
-    "https://cloud.google.com/blog/products/api-management": 1791206786628
+    "https://cloud.google.com/blog/products/api-management": 1791206786628,
+    "https://www.cncf.io/blog/2026/10/06/2026-2028-cncf-ambassador-cohort": 1791290365707,
+    "https://www.cncf.io/blog/2026/10/05/kubelet-watches-inodes-just-not-until-its-an-emergency": 1791290366281
   }
 }
