@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.qDsocuIARWg.L.X.O/am=AhEAYEAmAIA/d=1/ed=1/rs=AHrnUqXFqipntgI8z9SELITeIuqdNPz2fg/m=homeview,_b,_tp": 1790768969922,
-    "https://www.cncf.io/blog/2026/09/30/from-40-seconds-to-under-10-rebuilding-incident-detection-on-opentelemetry-apache-kafka-and-apache-flink-on-kubernetes": 1790768970958,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.AvDQShz-E7I.L.X.O/am=AhEAYEAmAIA/d=1/ed=1/rs=AHrnUqX-fln8Nb4wJlbfIuD2LKpVhtoMOQ/m=homeview,_b,_tp": 1790857137195,
     "https://www.cncf.io/blog/2026/10/01/guardrails-not-gates-rethinking-policy-in-platform-teams": 1790857137893,
     "https://www.cncf.io/blog/2026/09/30/argocon-north-america-2026-what-to-expect-as-the-argo-community-looks-toward-cd-4-0": 1790857138437,
@@ -19,6 +17,9 @@
     "https://cloud.google.com/blog/products/ai-machine-learning": 1791206785938,
     "https://cloud.google.com/blog/products/api-management": 1791206786628,
     "https://www.cncf.io/blog/2026/10/06/2026-2028-cncf-ambassador-cohort": 1791290365707,
-    "https://www.cncf.io/blog/2026/10/05/kubelet-watches-inodes-just-not-until-its-an-emergency": 1791290366281
+    "https://www.cncf.io/blog/2026/10/05/kubelet-watches-inodes-just-not-until-its-an-emergency": 1791290366281,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.0sL4bMS8cFc.L.X.O/am=AhAAYEAmAIA/d=1/ed=1/rs=AHrnUqU9tfO_7x_BNW9CJilDgTgK0ZVXow/m=homeview,_b,_tp": 1791376360104,
+    "https://www.cncf.io/blog/2026/10/07/meshery-becomes-a-cncf-incubating-project": 1791376361042,
+    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1791376361810
   }
 }
