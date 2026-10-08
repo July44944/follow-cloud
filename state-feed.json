@@ -2,9 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.AvDQShz-E7I.L.X.O/am=AhEAYEAmAIA/d=1/ed=1/rs=AHrnUqX-fln8Nb4wJlbfIuD2LKpVhtoMOQ/m=homeview,_b,_tp": 1790857137195,
-    "https://www.cncf.io/blog/2026/10/01/guardrails-not-gates-rethinking-policy-in-platform-teams": 1790857137893,
-    "https://www.cncf.io/blog/2026/09/30/argocon-north-america-2026-what-to-expect-as-the-argo-community-looks-toward-cd-4-0": 1790857138437,
     "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-from-user-to-contributor-to-maintainer": 1790941633420,
     "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-infrastructure-engineer-journey": 1790941633960,
     "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-application-developer-journey": 1790941634515,
@@ -20,6 +17,9 @@
     "https://www.cncf.io/blog/2026/10/05/kubelet-watches-inodes-just-not-until-its-an-emergency": 1791290366281,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.0sL4bMS8cFc.L.X.O/am=AhAAYEAmAIA/d=1/ed=1/rs=AHrnUqU9tfO_7x_BNW9CJilDgTgK0ZVXow/m=homeview,_b,_tp": 1791376360104,
     "https://www.cncf.io/blog/2026/10/07/meshery-becomes-a-cncf-incubating-project": 1791376361042,
-    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1791376361810
+    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1791376361810,
+    "https://www.cncf.io/blog/2026/10/07/ciliumcon-is-back-at-kubecon-cloudnativecon-north-america-2026": 1791463342201,
+    "https://www.cncf.io/blog/2026/10/07/backstagecon-comes-to-kubecon-cloudnativecon-north-america-2026-in-salt-lake-city": 1791463342736,
+    "https://www.cncf.io/blog/2026/10/07/kubernetes-on-edge-day-returns-to-kubecon-cloudnativecon-north-america-2026": 1791463343269
   }
 }
