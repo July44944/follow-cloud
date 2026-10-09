@@ -2,9 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-from-user-to-contributor-to-maintainer": 1790941633420,
-    "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-infrastructure-engineer-journey": 1790941633960,
-    "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-application-developer-journey": 1790941634515,
     "https://www.cncf.io/blog/2026/10/02/kubecon-cloudnativecon-north-america-2026-join-the-cloud-native-community-at-opentofu-day": 1791025240798,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1791206780529,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1791206781035,
@@ -20,6 +17,10 @@
     "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1791376361810,
     "https://www.cncf.io/blog/2026/10/07/ciliumcon-is-back-at-kubecon-cloudnativecon-north-america-2026": 1791463342201,
     "https://www.cncf.io/blog/2026/10/07/backstagecon-comes-to-kubecon-cloudnativecon-north-america-2026-in-salt-lake-city": 1791463342736,
-    "https://www.cncf.io/blog/2026/10/07/kubernetes-on-edge-day-returns-to-kubecon-cloudnativecon-north-america-2026": 1791463343269
+    "https://www.cncf.io/blog/2026/10/07/kubernetes-on-edge-day-returns-to-kubecon-cloudnativecon-north-america-2026": 1791463343269,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.lO0uHJNYNUQ.L.X.O/am=AhAAMCATAEA/d=1/ed=1/rs=AHrnUqXTY92C4BYfVsToTgjOfXwbkmW2XQ/m=homeview,_b,_tp": 1791548953078,
+    "https://www.cncf.io/blog/2026/10/09/join-platform-engineering-day-at-kubecon-cloudnativecon-north-america-2026": 1791548953934,
+    "https://www.cncf.io/blog/2026/10/09/making-the-golden-kubestronaut-a-little-more-golden": 1791548954519,
+    "https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team": 1791548955102
   }
 }
