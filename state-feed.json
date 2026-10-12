@@ -2,13 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1791206780529,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1791206781035,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1791206783261,
-    "https://azure.microsoft.com/en-us/blog/feed": 1791206783858,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1791206785023,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1791206785938,
-    "https://cloud.google.com/blog/products/api-management": 1791206786628,
     "https://www.cncf.io/blog/2026/10/06/2026-2028-cncf-ambassador-cohort": 1791290365707,
     "https://www.cncf.io/blog/2026/10/05/kubelet-watches-inodes-just-not-until-its-an-emergency": 1791290366281,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.0sL4bMS8cFc.L.X.O/am=AhAAYEAmAIA/d=1/ed=1/rs=AHrnUqU9tfO_7x_BNW9CJilDgTgK0ZVXow/m=homeview,_b,_tp": 1791376360104,
@@ -20,6 +13,14 @@
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.lO0uHJNYNUQ.L.X.O/am=AhAAMCATAEA/d=1/ed=1/rs=AHrnUqXTY92C4BYfVsToTgjOfXwbkmW2XQ/m=homeview,_b,_tp": 1791548953078,
     "https://www.cncf.io/blog/2026/10/09/join-platform-engineering-day-at-kubecon-cloudnativecon-north-america-2026": 1791548953934,
     "https://www.cncf.io/blog/2026/10/09/making-the-golden-kubestronaut-a-little-more-golden": 1791548954519,
-    "https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team": 1791548955102
+    "https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team": 1791548955102,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1791814549908,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1791814550423,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1791814551326,
+    "https://azure.microsoft.com/en-us/blog/feed": 1791814552053,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1791814554654,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1791814566434,
+    "https://cloud.google.com/blog/products/api-management": 1791814580794,
+    "https://www.cncf.io/blog/2026/10/12/from-zero-to-agent-builder-running-kagent-on-your-laptop": 1791814581715
   }
 }
