@@ -2,9 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.0sL4bMS8cFc.L.X.O/am=AhAAYEAmAIA/d=1/ed=1/rs=AHrnUqU9tfO_7x_BNW9CJilDgTgK0ZVXow/m=homeview,_b,_tp": 1791376360104,
-    "https://www.cncf.io/blog/2026/10/07/meshery-becomes-a-cncf-incubating-project": 1791376361042,
-    "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt": 1791376361810,
     "https://www.cncf.io/blog/2026/10/07/ciliumcon-is-back-at-kubecon-cloudnativecon-north-america-2026": 1791463342201,
     "https://www.cncf.io/blog/2026/10/07/backstagecon-comes-to-kubecon-cloudnativecon-north-america-2026-in-salt-lake-city": 1791463342736,
     "https://www.cncf.io/blog/2026/10/07/kubernetes-on-edge-day-returns-to-kubecon-cloudnativecon-north-america-2026": 1791463343269,
