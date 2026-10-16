@@ -2,9 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/10/07/ciliumcon-is-back-at-kubecon-cloudnativecon-north-america-2026": 1791463342201,
-    "https://www.cncf.io/blog/2026/10/07/backstagecon-comes-to-kubecon-cloudnativecon-north-america-2026-in-salt-lake-city": 1791463342736,
-    "https://www.cncf.io/blog/2026/10/07/kubernetes-on-edge-day-returns-to-kubecon-cloudnativecon-north-america-2026": 1791463343269,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.lO0uHJNYNUQ.L.X.O/am=AhAAMCATAEA/d=1/ed=1/rs=AHrnUqXTY92C4BYfVsToTgjOfXwbkmW2XQ/m=homeview,_b,_tp": 1791548953078,
     "https://www.cncf.io/blog/2026/10/09/join-platform-engineering-day-at-kubecon-cloudnativecon-north-america-2026": 1791548953934,
     "https://www.cncf.io/blog/2026/10/09/making-the-golden-kubestronaut-a-little-more-golden": 1791548954519,
@@ -16,6 +13,8 @@
     "https://azure.microsoft.com/en-us/blog/comments/feed": 1791814554654,
     "https://cloud.google.com/blog/products/ai-machine-learning": 1791814566434,
     "https://cloud.google.com/blog/products/api-management": 1791814580794,
-    "https://www.cncf.io/blog/2026/10/12/from-zero-to-agent-builder-running-kagent-on-your-laptop": 1791814581715
+    "https://www.cncf.io/blog/2026/10/12/from-zero-to-agent-builder-running-kagent-on-your-laptop": 1791814581715,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.BZ4pn--q3G4.L.X.O/am=AgAAMCATAEA/d=1/ed=1/rs=AHrnUqX240hEJaQgawz22Tug-h1CiuvlvA/m=homeview,_b,_tp": 1792146834976,
+    "https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry": 1792146835704
   }
 }
