@@ -2,10 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.lO0uHJNYNUQ.L.X.O/am=AhAAMCATAEA/d=1/ed=1/rs=AHrnUqXTY92C4BYfVsToTgjOfXwbkmW2XQ/m=homeview,_b,_tp": 1791548953078,
-    "https://www.cncf.io/blog/2026/10/09/join-platform-engineering-day-at-kubecon-cloudnativecon-north-america-2026": 1791548953934,
-    "https://www.cncf.io/blog/2026/10/09/making-the-golden-kubestronaut-a-little-more-golden": 1791548954519,
-    "https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team": 1791548955102,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1791814549908,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1791814550423,
     "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1791814551326,
@@ -15,6 +11,8 @@
     "https://cloud.google.com/blog/products/api-management": 1791814580794,
     "https://www.cncf.io/blog/2026/10/12/from-zero-to-agent-builder-running-kagent-on-your-laptop": 1791814581715,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.BZ4pn--q3G4.L.X.O/am=AgAAMCATAEA/d=1/ed=1/rs=AHrnUqX240hEJaQgawz22Tug-h1CiuvlvA/m=homeview,_b,_tp": 1792146834976,
-    "https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry": 1792146835704
+    "https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry": 1792146835704,
+    "https://www.cncf.io/blog/2026/10/16/deploying-maintaining-and-migrating-production-n8n-on-eks": 1792231415339,
+    "https://www.cncf.io/blog/2026/10/16/putting-nepal-on-the-cncf-golden-kubestronaut-map": 1792231415867
   }
 }
