@@ -2,18 +2,18 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1791814549908,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1791814550423,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1791814551326,
-    "https://azure.microsoft.com/en-us/blog/feed": 1791814552053,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1791814554654,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1791814566434,
-    "https://cloud.google.com/blog/products/api-management": 1791814580794,
-    "https://www.cncf.io/blog/2026/10/12/from-zero-to-agent-builder-running-kagent-on-your-laptop": 1791814581715,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.BZ4pn--q3G4.L.X.O/am=AgAAMCATAEA/d=1/ed=1/rs=AHrnUqX240hEJaQgawz22Tug-h1CiuvlvA/m=homeview,_b,_tp": 1792146834976,
     "https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry": 1792146835704,
     "https://www.cncf.io/blog/2026/10/16/deploying-maintaining-and-migrating-production-n8n-on-eks": 1792231415339,
     "https://www.cncf.io/blog/2026/10/16/putting-nepal-on-the-cncf-golden-kubestronaut-map": 1792231415867,
-    "https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling": 1792411020202
+    "https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling": 1792411020202,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1792493465343,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1792493465850,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1792493466418,
+    "https://azure.microsoft.com/en-us/blog/feed": 1792493466971,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1792493468582,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.R0p6fTKS5oU.L.X.O/am=AgAAMCATAEA/d=1/ed=1/rs=AHrnUqWFXadSCTiu26Snmohk_KjZww_ngQ/m=homeview,_b,_tp": 1792493469411,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1792493470000,
+    "https://cloud.google.com/blog/products/api-management": 1792493480849
   }
 }
