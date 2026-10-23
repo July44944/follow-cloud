@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.BZ4pn--q3G4.L.X.O/am=AgAAMCATAEA/d=1/ed=1/rs=AHrnUqX240hEJaQgawz22Tug-h1CiuvlvA/m=homeview,_b,_tp": 1792146834976,
-    "https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry": 1792146835704,
     "https://www.cncf.io/blog/2026/10/16/deploying-maintaining-and-migrating-production-n8n-on-eks": 1792231415339,
     "https://www.cncf.io/blog/2026/10/16/putting-nepal-on-the-cncf-golden-kubestronaut-map": 1792231415867,
     "https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling": 1792411020202,
@@ -18,6 +16,7 @@
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.mS1ywU27WY8.L.X.O/am=AgAAMCATAEA/d=1/ed=1/rs=AHrnUqULdikFnHDMy3VZak1YD8NYg3RNCQ/m=homeview,_b,_tp": 1792580578599,
     "https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context": 1792580579501,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.0ech5xqRYrA.L.X.O/am=AgAAMCATAEA/d=1/ed=1/rs=AHrnUqUEK-8G91iZWur931cy-qsx3Wsb7w/m=homeview,_b,_tp": 1792666960997,
-    "https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector": 1792666961860
+    "https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector": 1792666961860,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.aV37ba1xY3c.L.X.O/am=AgAAYEAmAAAB/d=1/ed=1/rs=AHrnUqV_Bun1SshJj3zYUUzAGOzXffRw_A/m=homeview,_b,_tp": 1792752936849
   }
 }
