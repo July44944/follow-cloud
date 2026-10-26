@@ -2,7 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling": 1792411020202,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1792493465343,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1792493465850,
     "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1792493466418,
@@ -16,6 +15,7 @@
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.0ech5xqRYrA.L.X.O/am=AgAAMCATAEA/d=1/ed=1/rs=AHrnUqUEK-8G91iZWur931cy-qsx3Wsb7w/m=homeview,_b,_tp": 1792666960997,
     "https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector": 1792666961860,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.aV37ba1xY3c.L.X.O/am=AgAAYEAmAAAB/d=1/ed=1/rs=AHrnUqV_Bun1SshJj3zYUUzAGOzXffRw_A/m=homeview,_b,_tp": 1792752936849,
-    "https://www.cncf.io/blog/2026/10/23/multi-tenant-gpu-kubernetes-on-simulated-hardware-with-kamaji-and-hami": 1792836656868
+    "https://www.cncf.io/blog/2026/10/23/multi-tenant-gpu-kubernetes-on-simulated-hardware-with-kamaji-and-hami": 1792836656868,
+    "https://www.cncf.io/blog/2026/10/26/isolation-security-scale": 1793016538083
   }
 }
