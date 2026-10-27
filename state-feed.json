@@ -2,20 +2,20 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1792493465343,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1792493465850,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1792493466418,
-    "https://azure.microsoft.com/en-us/blog/feed": 1792493466971,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1792493468582,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.R0p6fTKS5oU.L.X.O/am=AgAAMCATAEA/d=1/ed=1/rs=AHrnUqWFXadSCTiu26Snmohk_KjZww_ngQ/m=homeview,_b,_tp": 1792493469411,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1792493470000,
-    "https://cloud.google.com/blog/products/api-management": 1792493480849,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.mS1ywU27WY8.L.X.O/am=AgAAMCATAEA/d=1/ed=1/rs=AHrnUqULdikFnHDMy3VZak1YD8NYg3RNCQ/m=homeview,_b,_tp": 1792580578599,
     "https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context": 1792580579501,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.0ech5xqRYrA.L.X.O/am=AgAAMCATAEA/d=1/ed=1/rs=AHrnUqUEK-8G91iZWur931cy-qsx3Wsb7w/m=homeview,_b,_tp": 1792666960997,
     "https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector": 1792666961860,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.aV37ba1xY3c.L.X.O/am=AgAAYEAmAAAB/d=1/ed=1/rs=AHrnUqV_Bun1SshJj3zYUUzAGOzXffRw_A/m=homeview,_b,_tp": 1792752936849,
     "https://www.cncf.io/blog/2026/10/23/multi-tenant-gpu-kubernetes-on-simulated-hardware-with-kamaji-and-hami": 1792836656868,
-    "https://www.cncf.io/blog/2026/10/26/isolation-security-scale": 1793016538083
+    "https://www.cncf.io/blog/2026/10/26/isolation-security-scale": 1793016538083,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1793100631898,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1793100632403,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1793100633009,
+    "https://azure.microsoft.com/en-us/blog/feed": 1793100633585,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1793100634965,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1793100636106,
+    "https://cloud.google.com/blog/products/api-management": 1793100648253,
+    "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery": 1793100648925
   }
 }
