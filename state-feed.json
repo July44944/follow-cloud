@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.mS1ywU27WY8.L.X.O/am=AgAAMCATAEA/d=1/ed=1/rs=AHrnUqULdikFnHDMy3VZak1YD8NYg3RNCQ/m=homeview,_b,_tp": 1792580578599,
-    "https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context": 1792580579501,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.0ech5xqRYrA.L.X.O/am=AgAAMCATAEA/d=1/ed=1/rs=AHrnUqUEK-8G91iZWur931cy-qsx3Wsb7w/m=homeview,_b,_tp": 1792666960997,
     "https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector": 1792666961860,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.aV37ba1xY3c.L.X.O/am=AgAAYEAmAAAB/d=1/ed=1/rs=AHrnUqV_Bun1SshJj3zYUUzAGOzXffRw_A/m=homeview,_b,_tp": 1792752936849,
@@ -16,6 +14,7 @@
     "https://azure.microsoft.com/en-us/blog/comments/feed": 1793100634965,
     "https://cloud.google.com/blog/products/ai-machine-learning": 1793100636106,
     "https://cloud.google.com/blog/products/api-management": 1793100648253,
-    "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery": 1793100648925
+    "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery": 1793100648925,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.GROoLRNeamE.L.X.O/am=AgAAYEATAIA/d=1/ed=1/rs=AHrnUqVIcSKnBqqHANE6OMmfjilMQPZFIg/m=homeview,_b,_tp": 1793188826289
   }
 }
