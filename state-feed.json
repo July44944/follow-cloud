@@ -2,7 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/10/23/multi-tenant-gpu-kubernetes-on-simulated-hardware-with-kamaji-and-hami": 1792836656868,
     "https://www.cncf.io/blog/2026/10/26/isolation-security-scale": 1793016538083,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1793100631898,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1793100632403,
@@ -17,6 +16,7 @@
     "https://www.cncf.io/blog/2026/10/28/volcano-v1-16-released-namespacequeue-fairshare-and-a-broader-hypernode-ecosystem": 1793275852299,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.mmhmIUtIYMs.L.X.O/am=AgAAYEATAIA/d=1/ed=1/rs=AHrnUqXUWO0U5zT-Y4Vbty3GlgF35xqgog/m=homeview,_b,_tp": 1793361680598,
     "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips": 1793361681413,
-    "https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem": 1793361681984
+    "https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem": 1793361681984,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.cQsQpbTeK8Q.L.X.O/am=AgAAgAFNAAAC/d=1/ed=1/rs=AHrnUqUpiN0wUQqTWkM8c7p0E7wW16bXkw/m=homeview,_b,_tp": 1793446587026
   }
 }
