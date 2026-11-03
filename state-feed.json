@@ -2,14 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1793100631898,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1793100632403,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1793100633009,
-    "https://azure.microsoft.com/en-us/blog/feed": 1793100633585,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1793100634965,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1793100636106,
-    "https://cloud.google.com/blog/products/api-management": 1793100648253,
-    "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery": 1793100648925,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.GROoLRNeamE.L.X.O/am=AgAAYEATAIA/d=1/ed=1/rs=AHrnUqVIcSKnBqqHANE6OMmfjilMQPZFIg/m=homeview,_b,_tp": 1793188826289,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.7MhZvN5QcVw.L.X.O/am=AgAAYEATAIA/d=1/ed=1/rs=AHrnUqUfyMxWX-piP6xzxpPpPg3fjWMzWg/m=homeview,_b,_tp": 1793275851390,
     "https://www.cncf.io/blog/2026/10/28/volcano-v1-16-released-namespacequeue-fairshare-and-a-broader-hypernode-ecosystem": 1793275852299,
@@ -17,6 +9,15 @@
     "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips": 1793361681413,
     "https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem": 1793361681984,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.cQsQpbTeK8Q.L.X.O/am=AgAAgAFNAAAC/d=1/ed=1/rs=AHrnUqUpiN0wUQqTWkM8c7p0E7wW16bXkw/m=homeview,_b,_tp": 1793446587026,
-    "https://www.cncf.io/blog/2026/11/02/the-linkerd-story-the-people-behind-the-service-mesh-a-new-documentary-premieres-at-kubecon-cloudnativecon-north-america-2026": 1793630256802
+    "https://www.cncf.io/blog/2026/11/02/the-linkerd-story-the-people-behind-the-service-mesh-a-new-documentary-premieres-at-kubecon-cloudnativecon-north-america-2026": 1793630256802,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1793712640900,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1793712641413,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1793712642368,
+    "https://azure.microsoft.com/en-us/blog/feed": 1793712643029,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1793712645382,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.-Bgoa6VOzHc.L.X.O/am=AgAAgIEmAAAB/d=1/ed=1/rs=AHrnUqUjXIqOQiZK2m9GuK6HDZo9fBAvcg/m=homeview,_b,_tp": 1793712648403,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1793712649092,
+    "https://cloud.google.com/blog/products/api-management": 1793712649737,
+    "https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation": 1793712650626
   }
 }
