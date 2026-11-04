@@ -2,7 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.GROoLRNeamE.L.X.O/am=AgAAYEATAIA/d=1/ed=1/rs=AHrnUqVIcSKnBqqHANE6OMmfjilMQPZFIg/m=homeview,_b,_tp": 1793188826289,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.7MhZvN5QcVw.L.X.O/am=AgAAYEATAIA/d=1/ed=1/rs=AHrnUqUfyMxWX-piP6xzxpPpPg3fjWMzWg/m=homeview,_b,_tp": 1793275851390,
     "https://www.cncf.io/blog/2026/10/28/volcano-v1-16-released-namespacequeue-fairshare-and-a-broader-hypernode-ecosystem": 1793275852299,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.mmhmIUtIYMs.L.X.O/am=AgAAYEATAIA/d=1/ed=1/rs=AHrnUqXUWO0U5zT-Y4Vbty3GlgF35xqgog/m=homeview,_b,_tp": 1793361680598,
@@ -18,6 +17,7 @@
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.-Bgoa6VOzHc.L.X.O/am=AgAAgIEmAAAB/d=1/ed=1/rs=AHrnUqUjXIqOQiZK2m9GuK6HDZo9fBAvcg/m=homeview,_b,_tp": 1793712648403,
     "https://cloud.google.com/blog/products/ai-machine-learning": 1793712649092,
     "https://cloud.google.com/blog/products/api-management": 1793712649737,
-    "https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation": 1793712650626
+    "https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation": 1793712650626,
+    "https://www.cncf.io/blog/2026/11/04/openshell-on-kubernetes-a-guide-for-platform-engineers": 1793799693346
   }
 }
