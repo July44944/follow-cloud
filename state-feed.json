@@ -2,9 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.mmhmIUtIYMs.L.X.O/am=AgAAYEATAIA/d=1/ed=1/rs=AHrnUqXUWO0U5zT-Y4Vbty3GlgF35xqgog/m=homeview,_b,_tp": 1793361680598,
-    "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips": 1793361681413,
-    "https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem": 1793361681984,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.cQsQpbTeK8Q.L.X.O/am=AgAAgAFNAAAC/d=1/ed=1/rs=AHrnUqUpiN0wUQqTWkM8c7p0E7wW16bXkw/m=homeview,_b,_tp": 1793446587026,
     "https://www.cncf.io/blog/2026/11/02/the-linkerd-story-the-people-behind-the-service-mesh-a-new-documentary-premieres-at-kubecon-cloudnativecon-north-america-2026": 1793630256802,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1793712640900,
@@ -17,6 +14,8 @@
     "https://cloud.google.com/blog/products/api-management": 1793712649737,
     "https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation": 1793712650626,
     "https://www.cncf.io/blog/2026/11/04/openshell-on-kubernetes-a-guide-for-platform-engineers": 1793799693346,
-    "https://www.cncf.io/blog/2026/11/05/kpt-v1-0-0-is-released": 1793886846179
+    "https://www.cncf.io/blog/2026/11/05/kpt-v1-0-0-is-released": 1793886846179,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.s2APbahKjXc.L.X.O/am=AgAAgIEmAAAB/d=1/ed=1/rs=AHrnUqVrXik-zpIbW80f9x7Fx7vNjnTzIg/m=homeview,_b,_tp": 1793972374892,
+    "https://www.cncf.io/blog/2026/11/06/faster-llm-inference-startup-what-you-need-to-know": 1793972375616
   }
 }
