@@ -2,15 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1793712640900,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1793712641413,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1793712642368,
-    "https://azure.microsoft.com/en-us/blog/feed": 1793712643029,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1793712645382,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.-Bgoa6VOzHc.L.X.O/am=AgAAgIEmAAAB/d=1/ed=1/rs=AHrnUqUjXIqOQiZK2m9GuK6HDZo9fBAvcg/m=homeview,_b,_tp": 1793712648403,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1793712649092,
-    "https://cloud.google.com/blog/products/api-management": 1793712649737,
-    "https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation": 1793712650626,
     "https://www.cncf.io/blog/2026/11/04/openshell-on-kubernetes-a-guide-for-platform-engineers": 1793799693346,
     "https://www.cncf.io/blog/2026/11/05/kpt-v1-0-0-is-released": 1793886846179,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.s2APbahKjXc.L.X.O/am=AgAAgIEmAAAB/d=1/ed=1/rs=AHrnUqVrXik-zpIbW80f9x7Fx7vNjnTzIg/m=homeview,_b,_tp": 1793972374892,
@@ -19,6 +10,15 @@
     "https://www.cncf.io/blog/2026/11/08/lima-v2-3-native-on-windows-vmnet-on-linux-and-menu-tui": 1794141585211,
     "https://www.cncf.io/blog/2026/11/07/we-organized-sustainability-month-heres-what-we-learned-%f0%9f%8c%b1": 1794141585791,
     "https://www.cncf.io/blog/2026/11/09/new-research-virtual-machines-remain-central-to-cloud-native-infrastructure-as-ai-workloads-evolve": 1794236361758,
-    "https://www.cncf.io/blog/2026/11/09/run-linux-applications-in-hypervisor-isolated-micro-vms-with-hyperlight": 1794236362290
+    "https://www.cncf.io/blog/2026/11/09/run-linux-applications-in-hypervisor-isolated-micro-vms-with-hyperlight": 1794236362290,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1794319932993,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1794319933505,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1794319934153,
+    "https://azure.microsoft.com/en-us/blog/feed": 1794319934851,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1794319936680,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.i3pcyC5a_P8.L.X.O/am=AgAAAAaaAAAE/d=1/ed=1/rs=AHrnUqVnsl0RBOBCuof-viQ5ULSM1BaHXQ/m=homeview,_b,_tp": 1794319937491,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1794319938146,
+    "https://cloud.google.com/blog/products/api-management": 1794319939550,
+    "https://www.cncf.io/blog/2026/11/10/one-flag-many-guardrails-making-a-platform-safe-enough-to-delegate": 1794319940448
   }
 }
