@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/11/04/openshell-on-kubernetes-a-guide-for-platform-engineers": 1793799693346,
-    "https://www.cncf.io/blog/2026/11/05/kpt-v1-0-0-is-released": 1793886846179,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.s2APbahKjXc.L.X.O/am=AgAAgIEmAAAB/d=1/ed=1/rs=AHrnUqVrXik-zpIbW80f9x7Fx7vNjnTzIg/m=homeview,_b,_tp": 1793972374892,
     "https://www.cncf.io/blog/2026/11/06/faster-llm-inference-startup-what-you-need-to-know": 1793972375616,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.EL2o6YqH8Sc.L.X.O/am=AgAAAAaaAAAE/d=1/ed=1/rs=AHrnUqWXVGov6O4Ua9b52Vtw29-xwQ1owQ/m=homeview,_b,_tp": 1794054008926,
@@ -23,6 +21,9 @@
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.n_NgcSgujBs.L.X.O/am=AgAAAAw0AQAI/d=1/ed=1/rs=AHrnUqXSykf90BUlXvyAW2YJZXlF6d-M4Q/m=homeview,_b,_tp": 1794403654305,
     "https://www.cncf.io/blog/2026/11/11/platform-engineering-needs-to-become-more-humanand-less": 1794403655187,
     "https://www.cncf.io/blog/2026/11/10/cloudnativepg-becomes-a-cncf-incubating-project": 1794403655770,
-    "https://www.cncf.io/blog/2026/11/10/welcoming-openshell-to-the-cncf-open-governance-to-secure-agentic-ai": 1794403656351
+    "https://www.cncf.io/blog/2026/11/10/welcoming-openshell-to-the-cncf-open-governance-to-secure-agentic-ai": 1794403656351,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.tK-eqvhS9rM.L.X.O/am=AgAAADDQBAAw/d=1/ed=1/rs=AHrnUqWtVweHwuM61-crZhNA9Z6b3m7h-g/m=homeview,_b,_tp": 1794493874397,
+    "https://www.cncf.io/blog/2026/11/12/gang-scheduling-and-topology-aware-placement-for-ai-training-in-kubernetes": 1794493875122,
+    "https://www.cncf.io/blog/2026/11/11/introducing-cncf-user-groups-long-lived-homes-for-end-user-collaboration": 1794493875681
   }
 }
