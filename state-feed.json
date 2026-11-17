@@ -2,17 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.cncf.io/blog/2026/11/09/new-research-virtual-machines-remain-central-to-cloud-native-infrastructure-as-ai-workloads-evolve": 1794236361758,
-    "https://www.cncf.io/blog/2026/11/09/run-linux-applications-in-hypervisor-isolated-micro-vms-with-hyperlight": 1794236362290,
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1794319932993,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1794319933505,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1794319934153,
-    "https://azure.microsoft.com/en-us/blog/feed": 1794319934851,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1794319936680,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.i3pcyC5a_P8.L.X.O/am=AgAAAAaaAAAE/d=1/ed=1/rs=AHrnUqVnsl0RBOBCuof-viQ5ULSM1BaHXQ/m=homeview,_b,_tp": 1794319937491,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1794319938146,
-    "https://cloud.google.com/blog/products/api-management": 1794319939550,
-    "https://www.cncf.io/blog/2026/11/10/one-flag-many-guardrails-making-a-platform-safe-enough-to-delegate": 1794319940448,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.n_NgcSgujBs.L.X.O/am=AgAAAAw0AQAI/d=1/ed=1/rs=AHrnUqXSykf90BUlXvyAW2YJZXlF6d-M4Q/m=homeview,_b,_tp": 1794403654305,
     "https://www.cncf.io/blog/2026/11/11/platform-engineering-needs-to-become-more-humanand-less": 1794403655187,
     "https://www.cncf.io/blog/2026/11/10/cloudnativepg-becomes-a-cncf-incubating-project": 1794403655770,
@@ -21,6 +10,15 @@
     "https://www.cncf.io/blog/2026/11/12/gang-scheduling-and-topology-aware-placement-for-ai-training-in-kubernetes": 1794493875122,
     "https://www.cncf.io/blog/2026/11/11/introducing-cncf-user-groups-long-lived-homes-for-end-user-collaboration": 1794493875681,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.tK-eqvhS9rM.L.X.O/am=AgAAADDQBAAg/d=1/ed=1/rs=AHrnUqVAok1QArFGS43WxvshxzbKNbLvzg/m=homeview,_b,_tp": 1794577800365,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.8ka13Kbw1Lg.L.X.O/am=AgAAABjQBAAg/d=1/ed=1/rs=AHrnUqXMLfzVL9w1hnvRnRcT330Sc5PJJQ/m=homeview,_b,_tp": 1794660805545
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.8ka13Kbw1Lg.L.X.O/am=AgAAABjQBAAg/d=1/ed=1/rs=AHrnUqXMLfzVL9w1hnvRnRcT330Sc5PJJQ/m=homeview,_b,_tp": 1794660805545,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1794929118792,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1794929119296,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1794929119922,
+    "https://azure.microsoft.com/en-us/blog/feed": 1794929120463,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1794929121711,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.8ka13Kbw1Lg.L.X.O/am=AgAAABjQBAAw/d=1/ed=1/rs=AHrnUqXypQROuIjVdoRTKpV4GuflMMed2Q/m=homeview,_b,_tp": 1794929122692,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1794929123396,
+    "https://cloud.google.com/blog/products/api-management": 1794929124112,
+    "https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck": 1794929125212
   }
 }
