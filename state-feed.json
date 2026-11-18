@@ -2,10 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.n_NgcSgujBs.L.X.O/am=AgAAAAw0AQAI/d=1/ed=1/rs=AHrnUqXSykf90BUlXvyAW2YJZXlF6d-M4Q/m=homeview,_b,_tp": 1794403654305,
-    "https://www.cncf.io/blog/2026/11/11/platform-engineering-needs-to-become-more-humanand-less": 1794403655187,
-    "https://www.cncf.io/blog/2026/11/10/cloudnativepg-becomes-a-cncf-incubating-project": 1794403655770,
-    "https://www.cncf.io/blog/2026/11/10/welcoming-openshell-to-the-cncf-open-governance-to-secure-agentic-ai": 1794403656351,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.tK-eqvhS9rM.L.X.O/am=AgAAADDQBAAw/d=1/ed=1/rs=AHrnUqWtVweHwuM61-crZhNA9Z6b3m7h-g/m=homeview,_b,_tp": 1794493874397,
     "https://www.cncf.io/blog/2026/11/12/gang-scheduling-and-topology-aware-placement-for-ai-training-in-kubernetes": 1794493875122,
     "https://www.cncf.io/blog/2026/11/11/introducing-cncf-user-groups-long-lived-homes-for-end-user-collaboration": 1794493875681,
@@ -19,6 +15,9 @@
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.8ka13Kbw1Lg.L.X.O/am=AgAAABjQBAAw/d=1/ed=1/rs=AHrnUqXypQROuIjVdoRTKpV4GuflMMed2Q/m=homeview,_b,_tp": 1794929122692,
     "https://cloud.google.com/blog/products/ai-machine-learning": 1794929123396,
     "https://cloud.google.com/blog/products/api-management": 1794929124112,
-    "https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck": 1794929125212
+    "https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck": 1794929125212,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.BxsAHZEWcTk.L.X.O/am=AgAAABjQBAAw/d=1/ed=1/rs=AHrnUqWmcvtKptMfsXfxKXnD489iEG9XUw/m=homeview,_b,_tp": 1795013961534,
+    "https://www.cncf.io/blog/2026/11/18/optimizing-kubernetes-admission-control-where-kyvernos-cel-admission-cost-actually-goes": 1795013962280,
+    "https://www.cncf.io/blog/2026/11/10/welcoming-openshell-to-the-cncf-open-governance-to-secure-agentic-ai": 1795013963005
   }
 }
