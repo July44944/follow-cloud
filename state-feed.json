@@ -2,7 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.tK-eqvhS9rM.L.X.O/am=AgAAADDQBAAg/d=1/ed=1/rs=AHrnUqVAok1QArFGS43WxvshxzbKNbLvzg/m=homeview,_b,_tp": 1794577800365,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.8ka13Kbw1Lg.L.X.O/am=AgAAABjQBAAg/d=1/ed=1/rs=AHrnUqXMLfzVL9w1hnvRnRcT330Sc5PJJQ/m=homeview,_b,_tp": 1794660805545,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1794929118792,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1794929119296,
@@ -16,6 +15,8 @@
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.BxsAHZEWcTk.L.X.O/am=AgAAABjQBAAw/d=1/ed=1/rs=AHrnUqWmcvtKptMfsXfxKXnD489iEG9XUw/m=homeview,_b,_tp": 1795013961534,
     "https://www.cncf.io/blog/2026/11/18/optimizing-kubernetes-admission-control-where-kyvernos-cel-admission-cost-actually-goes": 1795013962280,
     "https://www.cncf.io/blog/2026/11/10/welcoming-openshell-to-the-cncf-open-governance-to-secure-agentic-ai": 1795013963005,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.WSYT39CYGgg.L.X.O/am=AgAAAAxoAgAY/d=1/ed=1/rs=AHrnUqVpnWDd8pal4q-7NEOsN65cjVysgw/m=homeview,_b,_tp": 1795100874143
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.WSYT39CYGgg.L.X.O/am=AgAAAAxoAgAY/d=1/ed=1/rs=AHrnUqVpnWDd8pal4q-7NEOsN65cjVysgw/m=homeview,_b,_tp": 1795100874143,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.nvUIa7cMQrU.L.X.O/am=ggAIAAxoAgAY/d=1/ed=1/rs=AHrnUqXY-sSz65dHWx1YC-CKvDxZy0FmYg/m=homeview,_b,_tp": 1795186100874,
+    "https://www.cncf.io/blog/2026/11/20/when-a-sync-window-closes-how-argo-cd-self-heal-skipped-the-migration-hook": 1795186101659
   }
 }
