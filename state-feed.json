@@ -2,15 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1794929118792,
-    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1794929119296,
-    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1794929119922,
-    "https://azure.microsoft.com/en-us/blog/feed": 1794929120463,
-    "https://azure.microsoft.com/en-us/blog/comments/feed": 1794929121711,
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.8ka13Kbw1Lg.L.X.O/am=AgAAABjQBAAw/d=1/ed=1/rs=AHrnUqXypQROuIjVdoRTKpV4GuflMMed2Q/m=homeview,_b,_tp": 1794929122692,
-    "https://cloud.google.com/blog/products/ai-machine-learning": 1794929123396,
-    "https://cloud.google.com/blog/products/api-management": 1794929124112,
-    "https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck": 1794929125212,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.BxsAHZEWcTk.L.X.O/am=AgAAABjQBAAw/d=1/ed=1/rs=AHrnUqWmcvtKptMfsXfxKXnD489iEG9XUw/m=homeview,_b,_tp": 1795013961534,
     "https://www.cncf.io/blog/2026/11/18/optimizing-kubernetes-admission-control-where-kyvernos-cel-admission-cost-actually-goes": 1795013962280,
     "https://www.cncf.io/blog/2026/11/10/welcoming-openshell-to-the-cncf-open-governance-to-secure-agentic-ai": 1795013963005,
@@ -18,6 +9,13 @@
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.nvUIa7cMQrU.L.X.O/am=ggAIAAxoAgAY/d=1/ed=1/rs=AHrnUqXY-sSz65dHWx1YC-CKvDxZy0FmYg/m=homeview,_b,_tp": 1795186100874,
     "https://www.cncf.io/blog/2026/11/20/when-a-sync-window-closes-how-argo-cd-self-heal-skipped-the-migration-hook": 1795186101659,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.15BUahSvjAk.L.X.O/am=ggAQABjQBAAw/d=1/ed=1/rs=AHrnUqV596lPrKNqrJhCaDc8tAeM4TNm5Q/m=homeview,_b,_tp": 1795269902629,
-    "https://www.cncf.io/blog/2026/11/19/how-to-support-your-app-on-kubernetes-environments-you-dont-control": 1795269903360
+    "https://www.cncf.io/blog/2026/11/19/how-to-support-your-app-on-kubernetes-environments-you-dont-control": 1795269903360,
+    "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1795539219161,
+    "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1795539219666,
+    "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1795539220287,
+    "https://azure.microsoft.com/en-us/blog/feed": 1795539221096,
+    "https://azure.microsoft.com/en-us/blog/comments/feed": 1795539222454,
+    "https://cloud.google.com/blog/products/ai-machine-learning": 1795539223963,
+    "https://cloud.google.com/blog/products/api-management": 1795539224668
   }
 }
