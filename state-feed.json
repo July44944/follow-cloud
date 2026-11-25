@@ -2,9 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.BxsAHZEWcTk.L.X.O/am=AgAAABjQBAAw/d=1/ed=1/rs=AHrnUqWmcvtKptMfsXfxKXnD489iEG9XUw/m=homeview,_b,_tp": 1795013961534,
-    "https://www.cncf.io/blog/2026/11/18/optimizing-kubernetes-admission-control-where-kyvernos-cel-admission-cost-actually-goes": 1795013962280,
-    "https://www.cncf.io/blog/2026/11/10/welcoming-openshell-to-the-cncf-open-governance-to-secure-agentic-ai": 1795013963005,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.WSYT39CYGgg.L.X.O/am=AgAAAAxoAgAY/d=1/ed=1/rs=AHrnUqVpnWDd8pal4q-7NEOsN65cjVysgw/m=homeview,_b,_tp": 1795100874143,
     "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.nvUIa7cMQrU.L.X.O/am=ggAIAAxoAgAY/d=1/ed=1/rs=AHrnUqXY-sSz65dHWx1YC-CKvDxZy0FmYg/m=homeview,_b,_tp": 1795186100874,
     "https://www.cncf.io/blog/2026/11/20/when-a-sync-window-closes-how-argo-cd-self-heal-skipped-the-migration-hook": 1795186101659,
@@ -16,6 +13,7 @@
     "https://azure.microsoft.com/en-us/blog/feed": 1795539221096,
     "https://azure.microsoft.com/en-us/blog/comments/feed": 1795539222454,
     "https://cloud.google.com/blog/products/ai-machine-learning": 1795539223963,
-    "https://cloud.google.com/blog/products/api-management": 1795539224668
+    "https://cloud.google.com/blog/products/api-management": 1795539224668,
+    "https://www.cncf.io/blog/2026/11/25/%f0%9f%9a%80-the-story-behind-drone-2-my-kubecon-cloudnativecon-north-america-2026-keynote": 1795624921254
   }
 }
