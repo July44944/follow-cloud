@@ -2,8 +2,6 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.15BUahSvjAk.L.X.O/am=ggAQABjQBAAw/d=1/ed=1/rs=AHrnUqV596lPrKNqrJhCaDc8tAeM4TNm5Q/m=homeview,_b,_tp": 1795269902629,
-    "https://www.cncf.io/blog/2026/11/19/how-to-support-your-app-on-kubernetes-environments-you-dont-control": 1795269903360,
     "https://a0.awsstatic.com/main/images/site/fav/favicon.ico": 1795539219161,
     "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png": 1795539219666,
     "https://azure.microsoft.com/en-us/blog/wp-content/plugins/ms-metrics/assets/js/at.2.9.0.js": 1795539220287,
@@ -12,6 +10,8 @@
     "https://cloud.google.com/blog/products/ai-machine-learning": 1795539223963,
     "https://cloud.google.com/blog/products/api-management": 1795539224668,
     "https://www.cncf.io/blog/2026/11/25/%f0%9f%9a%80-the-story-behind-drone-2-my-kubecon-cloudnativecon-north-america-2026-keynote": 1795624921254,
-    "https://www.cncf.io/blog/2026/11/20/when-a-sync-window-closes-how-argo-cd-self-heal-skipped-the-migration-hook": 1795795246198
+    "https://www.cncf.io/blog/2026/11/20/when-a-sync-window-closes-how-argo-cd-self-heal-skipped-the-migration-hook": 1795795246198,
+    "https://www.gstatic.com/_/mss/boq-cloudx-web-blog/_/ss/k=boq-cloudx-web-blog.TransformBlogUi.15BUahSvjAk.L.X.O/am=ggAQABjQBAAw/d=1/ed=1/rs=AHrnUqV596lPrKNqrJhCaDc8tAeM4TNm5Q/m=homeview,_b,_tp": 1795877842573,
+    "https://www.cncf.io/blog/2026/11/19/how-to-support-your-app-on-kubernetes-environments-you-dont-control": 1795877843583
   }
 }
